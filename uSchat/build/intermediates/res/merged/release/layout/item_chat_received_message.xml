@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_10"
+    android:paddingTop="@dimen/margin_15">
+
+    <TextView
+        android:id="@+id/tv_time"
+        style="@style/style_text_white_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/color_msg_system_time_bg"
+        android:padding="@dimen/height_2" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:layout_marginTop="@dimen/margin_11">
+
+        <com.xiangyue.view.CircleImageView
+            android:id="@+id/iv_avatar"
+            android:layout_width="@dimen/height_50"
+            android:layout_height="@dimen/height_50"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/head"
+            app:border_color="@color/grey"
+            app:border_width="1dp" />
+
+        <TextView
+            android:id="@+id/tv_message"
+            style="@style/style_text_1e1e1e"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:background="@drawable/chatfrom_bg"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="left|center"
+            android:lineSpacingExtra="@dimen/margin_3"
+            android:maxWidth="225.0dip"
+            android:minHeight="@dimen/height_40"
+            android:minWidth="80dp"
+            android:paddingBottom="@dimen/margin_10"
+            android:paddingLeft="@dimen/margin_30"
+            android:paddingRight="@dimen/margin_15"
+            android:paddingTop="@dimen/margin_10" />
+
+    </RelativeLayout>
+
+</LinearLayout>

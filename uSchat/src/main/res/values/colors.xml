@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="buttonWhileText">#ffffff</color>
+    <!-- 特殊字体颜色 -->
+    <!-- 刷新组件 -->
+    <color name="re_common_lv">#6F737D</color>
+    <color name="re_common_lv_time">#BABFC9</color>
+    <!-- button start -->
+    <!-- 查看详情 半透明 -->
+    <color name="translucent_background">#80000000</color>
+    <!-- end start -->
+    <color name="buttom_red">#da212c</color>
+    <color name="headBar">@color/appcolor</color>
+    <color name="transparent">#E4E2E3</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="white">@color/buttonWhileText</color>
+    <color name="grey">#A9ADB9</color>
+    <color name="content_text">#ff787878</color>
+    <color name="reg_verify_bg_gray">#ffc7c7c7</color>
+    <color name="text_color">#ff464646</color>
+    <color name="actionsheet_gray">#ff8F8F8F</color>
+    <color name="actionsheet_blue">#ff037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="appcolor">#11B7F3</color>
+    <color name="line">#E4E2E3</color>
+    <color name="userlist_gray">#535353</color>
+    <color name="common_bg">#ECEDF1</color>
+    <color name="common_line">#E4E2E3</color>
+    <color name="gray_normal">#666667</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="top_bar_normal_bg">#f9f9f9</color>
+    <color name="text_hint">#ff787878</color>
+
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="color_theme">#489cfa</color>
+
+    <color name="theme_bg_color">#f0f2f5</color>
+
+    <color name="color_99">#999999</color>
+    <color name="color_line">#dadada</color>
+    <color name="color_chat_send_status">#818181</color>
+    <color name="color_msg_system_time_bg">#20000000</color>
+    <color name="color_1e1e1e">#1e1e1e</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+    <color name="default_text">#ff454545</color>
+
+    <color name="subscribe_line_color">#ffd9d9d9</color>
+    <color name="all_red">#ff0000</color>
+    <color name="light_gray">#707070</color>
+    <color name="popu">#323136</color>
+    <color name="popu_press">#e0000000</color>
+    <color name="nor_grey">#f8f8f8</color>
+</resources>

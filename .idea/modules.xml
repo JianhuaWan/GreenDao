@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreenDao.iml" filepath="$PROJECT_DIR$/GreenDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuSDK/TuSDK.iml" filepath="$PROJECT_DIR$/TuSDK/TuSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockpanda/mockpanda.iml" filepath="$PROJECT_DIR$/mockpanda/mockpanda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sMSSDK/sMSSDK.iml" filepath="$PROJECT_DIR$/sMSSDK/sMSSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uSchat/uSchat.iml" filepath="$PROJECT_DIR$/uSchat/uSchat.iml" />
+    </modules>
+  </component>
+</project>

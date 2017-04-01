@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 19
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+    lintOptions {
+        abortOnError false
+    }
+    dexOptions {
+        incremental false
+        preDexLibraries = false
+        jumboMode = true
+    }
+}
+
+dependencies {
+    compile files('libs/mframework.jar')
+    compile files('libs/SMSSDK-1.1.9.jar')
+}

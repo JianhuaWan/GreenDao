@@ -1,0 +1,2016 @@
+[
+    {
+        "outputFile": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 16,
+                    "endOffset": 584
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 16,
+                        "endColumn": 16,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 589,
+                    "endLine": 36,
+                    "endColumn": 16,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endLine": 36,
+                        "endColumn": 16,
+                        "endOffset": 1294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endLine": 55,
+                    "endColumn": 16,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1299,
+                        "endLine": 55,
+                        "endColumn": 16,
+                        "endOffset": 1976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endLine": 62,
+                    "endColumn": 16,
+                    "endOffset": 2253
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1981,
+                        "endLine": 62,
+                        "endColumn": 16,
+                        "endOffset": 2253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2258,
+                    "endLine": 72,
+                    "endColumn": 16,
+                    "endOffset": 2616
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2258,
+                        "endLine": 72,
+                        "endColumn": 16,
+                        "endOffset": 2616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2621,
+                    "endLine": 79,
+                    "endColumn": 16,
+                    "endOffset": 2866
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2621,
+                        "endLine": 79,
+                        "endColumn": 16,
+                        "endOffset": 2866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2871,
+                    "endLine": 96,
+                    "endColumn": 16,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2871,
+                        "endLine": 96,
+                        "endColumn": 16,
+                        "endOffset": 3453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endLine": 102,
+                    "endColumn": 16,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3458,
+                        "endLine": 102,
+                        "endColumn": 16,
+                        "endOffset": 3658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endLine": 113,
+                    "endColumn": 16,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3663,
+                        "endLine": 113,
+                        "endColumn": 16,
+                        "endOffset": 4033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endLine": 119,
+                    "endColumn": 16,
+                    "endOffset": 4236
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4038,
+                        "endLine": 119,
+                        "endColumn": 16,
+                        "endOffset": 4236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4241,
+                    "endLine": 126,
+                    "endColumn": 16,
+                    "endOffset": 4476
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4241,
+                        "endLine": 126,
+                        "endColumn": 16,
+                        "endOffset": 4476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4481,
+                    "endLine": 137,
+                    "endColumn": 16,
+                    "endOffset": 4863
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4481,
+                        "endLine": 137,
+                        "endColumn": 16,
+                        "endOffset": 4863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4868,
+                    "endLine": 159,
+                    "endColumn": 16,
+                    "endOffset": 5637
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 4868,
+                        "endLine": 159,
+                        "endColumn": 16,
+                        "endOffset": 5637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5642,
+                    "endLine": 172,
+                    "endColumn": 16,
+                    "endOffset": 6106
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 5642,
+                        "endLine": 172,
+                        "endColumn": 16,
+                        "endOffset": 6106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6111,
+                    "endLine": 175,
+                    "endColumn": 16,
+                    "endOffset": 6204
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 6111,
+                        "endLine": 175,
+                        "endColumn": 16,
+                        "endOffset": 6204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6209,
+                    "endLine": 186,
+                    "endColumn": 16,
+                    "endOffset": 6608
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 6209,
+                        "endLine": 186,
+                        "endColumn": 16,
+                        "endOffset": 6608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6613,
+                    "endLine": 189,
+                    "endColumn": 16,
+                    "endOffset": 6707
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 6613,
+                        "endLine": 189,
+                        "endColumn": 16,
+                        "endOffset": 6707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 6712,
+                    "endLine": 196,
+                    "endColumn": 16,
+                    "endOffset": 6958
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 6712,
+                        "endLine": 196,
+                        "endColumn": 16,
+                        "endOffset": 6958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 6963,
+                    "endLine": 225,
+                    "endColumn": 16,
+                    "endOffset": 8056
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 6963,
+                        "endLine": 225,
+                        "endColumn": 16,
+                        "endOffset": 8056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 8061,
+                    "endLine": 238,
+                    "endColumn": 16,
+                    "endOffset": 8534
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 8061,
+                        "endLine": 238,
+                        "endColumn": 16,
+                        "endOffset": 8534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 8539,
+                    "endLine": 247,
+                    "endColumn": 16,
+                    "endOffset": 8902
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 8539,
+                        "endLine": 247,
+                        "endColumn": 16,
+                        "endOffset": 8902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 8907,
+                    "endLine": 254,
+                    "endColumn": 16,
+                    "endOffset": 9170
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 8907,
+                        "endLine": 254,
+                        "endColumn": 16,
+                        "endOffset": 9170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 9175,
+                    "endLine": 257,
+                    "endColumn": 16,
+                    "endOffset": 9242
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 9175,
+                        "endLine": 257,
+                        "endColumn": 16,
+                        "endOffset": 9242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 9247,
+                    "endLine": 260,
+                    "endColumn": 16,
+                    "endOffset": 9314
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 9247,
+                        "endLine": 260,
+                        "endColumn": 16,
+                        "endOffset": 9314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 9319,
+                    "endLine": 263,
+                    "endColumn": 16,
+                    "endOffset": 9413
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 9319,
+                        "endLine": 263,
+                        "endColumn": 16,
+                        "endOffset": 9413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 9418,
+                    "endLine": 267,
+                    "endColumn": 19,
+                    "endOffset": 9550
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 9418,
+                        "endLine": 267,
+                        "endColumn": 19,
+                        "endOffset": 9550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 9555,
+                    "endColumn": 50,
+                    "endOffset": 9601
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 9555,
+                        "endColumn": 50,
+                        "endOffset": 9601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 9606,
+                    "endColumn": 45,
+                    "endOffset": 9647
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 9606,
+                        "endColumn": 45,
+                        "endOffset": 9647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 9652,
+                    "endColumn": 48,
+                    "endOffset": 9696
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 9652,
+                        "endColumn": 48,
+                        "endOffset": 9696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 9701,
+                    "endColumn": 82,
+                    "endOffset": 9779
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 9701,
+                        "endColumn": 82,
+                        "endOffset": 9779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 9784,
+                    "endColumn": 64,
+                    "endOffset": 9844
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 9784,
+                        "endColumn": 64,
+                        "endOffset": 9844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 9849,
+                    "endColumn": 141,
+                    "endOffset": 9986
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 9849,
+                        "endColumn": 141,
+                        "endOffset": 9986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 9991,
+                    "endColumn": 62,
+                    "endOffset": 10049
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 9991,
+                        "endColumn": 62,
+                        "endOffset": 10049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 10054,
+                    "endColumn": 66,
+                    "endOffset": 10116
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 10054,
+                        "endColumn": 66,
+                        "endOffset": 10116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 10121,
+                    "endColumn": 71,
+                    "endOffset": 10188
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 10121,
+                        "endColumn": 71,
+                        "endOffset": 10188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 10193,
+                    "endColumn": 58,
+                    "endOffset": 10247
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 10193,
+                        "endColumn": 58,
+                        "endOffset": 10247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 10252,
+                    "endColumn": 50,
+                    "endOffset": 10298
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 10252,
+                        "endColumn": 50,
+                        "endOffset": 10298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 10303,
+                    "endColumn": 105,
+                    "endOffset": 10404
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 10303,
+                        "endColumn": 105,
+                        "endOffset": 10404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 10409,
+                    "endColumn": 65,
+                    "endOffset": 10470
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 10409,
+                        "endColumn": 65,
+                        "endOffset": 10470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 10475,
+                    "endColumn": 59,
+                    "endOffset": 10530
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 10475,
+                        "endColumn": 59,
+                        "endOffset": 10530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 10535,
+                    "endColumn": 64,
+                    "endOffset": 10595
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 10535,
+                        "endColumn": 64,
+                        "endOffset": 10595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 10600,
+                    "endColumn": 67,
+                    "endOffset": 10663
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 10600,
+                        "endColumn": 67,
+                        "endOffset": 10663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 10668,
+                    "endColumn": 62,
+                    "endOffset": 10726
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 10668,
+                        "endColumn": 62,
+                        "endOffset": 10726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 10731,
+                    "endColumn": 65,
+                    "endOffset": 10792
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 10731,
+                        "endColumn": 65,
+                        "endOffset": 10792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 10797,
+                    "endColumn": 64,
+                    "endOffset": 10857
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 10797,
+                        "endColumn": 64,
+                        "endOffset": 10857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 10862,
+                    "endColumn": 70,
+                    "endOffset": 10928
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 10862,
+                        "endColumn": 70,
+                        "endOffset": 10928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 10933,
+                    "endColumn": 85,
+                    "endOffset": 11014
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 10933,
+                        "endColumn": 85,
+                        "endOffset": 11014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 11019,
+                    "endColumn": 73,
+                    "endOffset": 11088
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 11019,
+                        "endColumn": 73,
+                        "endOffset": 11088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 11093,
+                    "endColumn": 63,
+                    "endOffset": 11152
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 11093,
+                        "endColumn": 63,
+                        "endOffset": 11152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 11157,
+                    "endColumn": 62,
+                    "endOffset": 11215
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 11157,
+                        "endColumn": 62,
+                        "endOffset": 11215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 11220,
+                    "endColumn": 58,
+                    "endOffset": 11274
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 11220,
+                        "endColumn": 58,
+                        "endOffset": 11274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 11279,
+                    "endColumn": 93,
+                    "endOffset": 11368
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 11279,
+                        "endColumn": 93,
+                        "endOffset": 11368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 11373,
+                    "endColumn": 67,
+                    "endOffset": 11436
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 11373,
+                        "endColumn": 67,
+                        "endOffset": 11436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 11441,
+                    "endColumn": 70,
+                    "endOffset": 11507
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 11441,
+                        "endColumn": 70,
+                        "endOffset": 11507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 11512,
+                    "endColumn": 72,
+                    "endOffset": 11580
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 11512,
+                        "endColumn": 72,
+                        "endOffset": 11580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 11585,
+                    "endColumn": 84,
+                    "endOffset": 11665
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 11585,
+                        "endColumn": 84,
+                        "endOffset": 11665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 11670,
+                    "endColumn": 95,
+                    "endOffset": 11761
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 11670,
+                        "endColumn": 95,
+                        "endOffset": 11761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 11766,
+                    "endColumn": 94,
+                    "endOffset": 11856
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 11766,
+                        "endColumn": 94,
+                        "endOffset": 11856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 11861,
+                    "endColumn": 88,
+                    "endOffset": 11945
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 11861,
+                        "endColumn": 88,
+                        "endOffset": 11945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 11950,
+                    "endColumn": 64,
+                    "endOffset": 12010
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 11950,
+                        "endColumn": 64,
+                        "endOffset": 12010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 12015,
+                    "endColumn": 110,
+                    "endOffset": 12121
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 12015,
+                        "endColumn": 110,
+                        "endOffset": 12121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 12126,
+                    "endColumn": 103,
+                    "endOffset": 12225
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 12126,
+                        "endColumn": 103,
+                        "endOffset": 12225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 12230,
+                    "endColumn": 146,
+                    "endOffset": 12372
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 12230,
+                        "endColumn": 146,
+                        "endOffset": 12372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 12377,
+                    "endColumn": 149,
+                    "endOffset": 12522
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 12377,
+                        "endColumn": 149,
+                        "endOffset": 12522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 12527,
+                    "endColumn": 75,
+                    "endOffset": 12598
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 12527,
+                        "endColumn": 75,
+                        "endOffset": 12598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 12603,
+                    "endColumn": 94,
+                    "endOffset": 12693
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 12603,
+                        "endColumn": 94,
+                        "endOffset": 12693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 12698,
+                    "endColumn": 89,
+                    "endOffset": 12783
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 12698,
+                        "endColumn": 89,
+                        "endOffset": 12783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 12788,
+                    "endColumn": 100,
+                    "endOffset": 12884
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 12788,
+                        "endColumn": 100,
+                        "endOffset": 12884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 12889,
+                    "endColumn": 112,
+                    "endOffset": 12997
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 12889,
+                        "endColumn": 112,
+                        "endOffset": 12997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 13002,
+                    "endColumn": 79,
+                    "endOffset": 13077
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 13002,
+                        "endColumn": 79,
+                        "endOffset": 13077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 13082,
+                    "endColumn": 72,
+                    "endOffset": 13150
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 13082,
+                        "endColumn": 72,
+                        "endOffset": 13150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 13155,
+                    "endColumn": 168,
+                    "endOffset": 13319
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 13155,
+                        "endColumn": 168,
+                        "endOffset": 13319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 13324,
+                    "endColumn": 118,
+                    "endOffset": 13438
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 13324,
+                        "endColumn": 118,
+                        "endOffset": 13438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 13443,
+                    "endColumn": 66,
+                    "endOffset": 13505
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 13443,
+                        "endColumn": 66,
+                        "endOffset": 13505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 13510,
+                    "endColumn": 48,
+                    "endOffset": 13554
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 13510,
+                        "endColumn": 48,
+                        "endOffset": 13554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 13559,
+                    "endColumn": 118,
+                    "endOffset": 13673
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 13559,
+                        "endColumn": 118,
+                        "endOffset": 13673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 13678,
+                    "endColumn": 105,
+                    "endOffset": 13779
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 4,
+                        "startOffset": 13678,
+                        "endColumn": 105,
+                        "endOffset": 13779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 13784,
+                    "endColumn": 160,
+                    "endOffset": 13940
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 4,
+                        "startOffset": 13784,
+                        "endColumn": 160,
+                        "endOffset": 13940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 13945,
+                    "endColumn": 76,
+                    "endOffset": 14017
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 13945,
+                        "endColumn": 76,
+                        "endOffset": 14017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 14022,
+                    "endColumn": 79,
+                    "endOffset": 14097
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 4,
+                        "startOffset": 14022,
+                        "endColumn": 79,
+                        "endOffset": 14097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 14102,
+                    "endColumn": 80,
+                    "endOffset": 14178
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 14102,
+                        "endColumn": 80,
+                        "endOffset": 14178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 14183,
+                    "endColumn": 44,
+                    "endOffset": 14223
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 14183,
+                        "endColumn": 44,
+                        "endOffset": 14223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 14228,
+                    "endColumn": 105,
+                    "endOffset": 14329
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 14228,
+                        "endColumn": 105,
+                        "endOffset": 14329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 14334,
+                    "endColumn": 40,
+                    "endOffset": 14370
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 14334,
+                        "endColumn": 40,
+                        "endOffset": 14370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 14375,
+                    "endColumn": 127,
+                    "endOffset": 14498
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 4,
+                        "startOffset": 14375,
+                        "endColumn": 127,
+                        "endOffset": 14498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 14503,
+                    "endColumn": 68,
+                    "endOffset": 14567
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 4,
+                        "startOffset": 14503,
+                        "endColumn": 68,
+                        "endOffset": 14567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 14572,
+                    "endColumn": 80,
+                    "endOffset": 14648
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 4,
+                        "startOffset": 14572,
+                        "endColumn": 80,
+                        "endOffset": 14648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 14653,
+                    "endColumn": 48,
+                    "endOffset": 14697
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 4,
+                        "startOffset": 14653,
+                        "endColumn": 48,
+                        "endOffset": 14697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 14702,
+                    "endColumn": 64,
+                    "endOffset": 14762
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 14702,
+                        "endColumn": 64,
+                        "endOffset": 14762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 14767,
+                    "endColumn": 66,
+                    "endOffset": 14829
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 14767,
+                        "endColumn": 66,
+                        "endOffset": 14829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 14834,
+                    "endColumn": 163,
+                    "endOffset": 14993
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 332,
+                        "startColumn": 4,
+                        "startOffset": 14834,
+                        "endColumn": 163,
+                        "endOffset": 14993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 14998,
+                    "endColumn": 213,
+                    "endOffset": 15207
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 333,
+                        "startColumn": 4,
+                        "startOffset": 14998,
+                        "endColumn": 213,
+                        "endOffset": 15207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 15212,
+                    "endColumn": 96,
+                    "endOffset": 15304
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 334,
+                        "startColumn": 4,
+                        "startOffset": 15212,
+                        "endColumn": 96,
+                        "endOffset": 15304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 15309,
+                    "endColumn": 48,
+                    "endOffset": 15353
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 15309,
+                        "endColumn": 48,
+                        "endOffset": 15353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 15358,
+                    "endColumn": 141,
+                    "endOffset": 15495
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 4,
+                        "startOffset": 15358,
+                        "endColumn": 141,
+                        "endOffset": 15495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 15500,
+                    "endColumn": 83,
+                    "endOffset": 15579
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 4,
+                        "startOffset": 15500,
+                        "endColumn": 83,
+                        "endOffset": 15579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 15584,
+                    "endColumn": 90,
+                    "endOffset": 15670
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 4,
+                        "startOffset": 15584,
+                        "endColumn": 90,
+                        "endOffset": 15670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 15675,
+                    "endColumn": 83,
+                    "endOffset": 15754
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 4,
+                        "startOffset": 15675,
+                        "endColumn": 83,
+                        "endOffset": 15754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 15759,
+                    "endColumn": 44,
+                    "endOffset": 15799
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 4,
+                        "startOffset": 15759,
+                        "endColumn": 44,
+                        "endOffset": 15799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 15804,
+                    "endColumn": 85,
+                    "endOffset": 15885
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 4,
+                        "startOffset": 15804,
+                        "endColumn": 85,
+                        "endOffset": 15885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 15890,
+                    "endColumn": 84,
+                    "endOffset": 15970
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 15890,
+                        "endColumn": 84,
+                        "endOffset": 15970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 15975,
+                    "endColumn": 97,
+                    "endOffset": 16068
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 4,
+                        "startOffset": 15975,
+                        "endColumn": 97,
+                        "endOffset": 16068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 16073,
+                    "endColumn": 80,
+                    "endOffset": 16149
+                },
+                "from": {
+                    "file": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 16073,
+                        "endColumn": 80,
+                        "endOffset": 16149
+                    }
+                }
+            }
+        ]
+    }
+]

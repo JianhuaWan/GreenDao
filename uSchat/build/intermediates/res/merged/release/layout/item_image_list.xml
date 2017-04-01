@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants">
+
+    <ImageView
+        android:id="@+id/iv_item_image"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/display_pictures_no"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/selected_tag"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="3dp"
+        android:background="@drawable/feedback_pictures_select_icon_unselected"
+        android:focusable="true" />
+
+</RelativeLayout>

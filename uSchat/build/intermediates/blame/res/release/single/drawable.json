@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_wechat.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_wechat.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_wechatapatment.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_wechatapatment.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\sendmessage_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\sendmessage_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_date_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\dialog_date_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\all_btn.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\all_btn.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\game_normal.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\game_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\common_tab_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\button_bg1.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\button_bg1.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_brush_size_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_brush_size_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\selector_crm_maintab.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\selector_crm_maintab.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\corners_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_add_camera_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_add_camera_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatfrom_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_game.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_game.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatfrom_bg_normal.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_seekbar_top_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_seekbar_top_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\selector_oa_maintab.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\selector_oa_maintab.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\corners_bg1.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\corners_bg1.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\selector_setting_maintab.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\selector_setting_maintab.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\alertdialog_single_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\alertdialog_single_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_main.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\gamebtn_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\gamebtn_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\base_horizontal_line.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\base_horizontal_line.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_btn_enable.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_filter_back_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_filter_back_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_count_new_message_main1.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_count_new_message_main1.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_qq.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_qq.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_camera_configbar_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_camera_configbar_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_orange_radius.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_orange_radius.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chat_press_speak_btn.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_actionsheet_top_radius.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_actionsheet_top_radius.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_add_location_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_add_location_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_normal_pressed.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_normal_pressed.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\selector_user_maintab.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\selector_user_maintab.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatto_bg_normal.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_seekbar_drag.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_seekbar_drag.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\timestampe_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\location_msg.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\location_msg.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_progress_hud_view_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_progress_hud_view_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\alertdialog_right_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\alertdialog_right_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_single_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_info_icon_badge.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_info_icon_badge.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_middle_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatfrom_bg_focused.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_camera_face_detection_view_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_camera_face_detection_view_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_filter_reset_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_filter_reset_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\game_pressed.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\game_pressed.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\all_popuwind_bg.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\all_popuwind_bg.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\wechat_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\wechat_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_smudge_zoomin_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_smudge_zoomin_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_voice_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_voice_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_seekbar_bottom_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_seekbar_bottom_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_btn_disenable.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_core_view_progress_bar.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_core_view_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\input_bar_bg_active.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\input_bar_bg_active.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\slidetab_bg_press.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\slidetab_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_seekbar_reset_button.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_seekbar_reset_button.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\anim_chat_voice_left.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\anim_chat_voice_left.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\button_normal_shape.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\button_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatto_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_normal.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_sina.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_sina.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_add_video_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_add_video_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_qqzone.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_qqzone.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_wifi_disable.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_logout_p.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_logout_p.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\input_bar_bg_normal.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_logout_n.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_logout_n.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\alertdialog_left_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\alertdialog_left_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_list_view_selector_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_list_view_selector_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\money_bg1.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\money_bg1.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_actionsheet_radius.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_actionsheet_radius.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chat_video_mask_to.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chat_video_mask_to.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\base_action_bar_back_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\base_action_bar_back_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\recording_hint_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_group_filter_item_highlight.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_group_filter_item_highlight.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\time_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\time_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\selector_pop_common.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\selector_pop_common.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\chatto_bg_focused.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\bg_chat_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\bg_chat_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\del_photo.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\del_photo.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_photo_grid_cell_background.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_photo_grid_cell_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\share_more.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\share_more.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_actionsheet_normal.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_actionsheet_normal.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_edit_sticker_rotate.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_edit_sticker_rotate.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\background_caifu.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\background_caifu.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\photogrid_list_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_keyboard_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\money_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\money_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_component_camera_bottombar_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_component_camera_bottombar_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_logout_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_logout_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\subscribe_item_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\subscribe_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_actionsheet_bottom_radius.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_actionsheet_bottom_radius.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_add_picture_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_add_picture_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\btn_chat_fail_resend.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\btn_chat_fail_resend.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\anim_chat_voice_right.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\anim_chat_voice_right.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_view_widget_seekbar_state_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_view_widget_seekbar_state_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\camera_switch_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\camera_switch_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_top_selector.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_info_icon_dot.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_info_icon_dot.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\tusdk_button_edit_sticker_remove.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\drawable\\tusdk_button_edit_sticker_remove.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    }
+]

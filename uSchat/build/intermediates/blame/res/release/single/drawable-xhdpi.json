@@ -1,0 +1,790 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_camera_press.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_camera_press.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_picture_press.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_picture_press.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_67.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_67.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_84.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_84.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_22.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_22.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\message_setting.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\message_setting.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_98.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_98.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_53.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_53.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\img_message_select.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\img_message_select.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\faq.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\faq.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_36.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_36.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_8.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_8.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_38.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_38.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\default_head.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\default_head.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_24.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_24.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_65.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_65.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_100.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_100.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_19.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_19.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\mar.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\mar.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_51.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_51.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\medium_showgirl.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\medium_showgirl.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_79.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_79.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\img_crm_tab_select.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\img_crm_tab_select.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_70.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_70.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\vipmonth.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\vipmonth.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\onlineworked.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\onlineworked.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_return.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\btn_return.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\clidcion.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\clidcion.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_72.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_72.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_1.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_1.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\workbtn1.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\workbtn1.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sex_man.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\sex_man.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_94.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_94.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_41.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_41.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_60.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_60.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_88.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_88.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_63.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_63.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_69.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_69.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_82.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_82.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_video_pressed.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_video_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_34.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_34.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_15.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_15.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_12.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_12.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\timeicon.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\timeicon.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_14.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_14.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_59.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_59.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\icon_add_more_select.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\icon_add_more_select.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\btn_setting_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\btn_setting_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_4.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_4.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_61.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_61.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\onlineworkicon.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\onlineworkicon.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_58.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_58.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\workbg.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\workbg.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\clear_cache.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\clear_cache.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_91.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_91.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_28.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_28.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_32.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_32.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_43.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_43.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\app_icon.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_13.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_13.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\girlshow.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\girlshow.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\welcome.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\welcome.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_62.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_62.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_76.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_76.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_6.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_6.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_57.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_57.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_42.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_42.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_87.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_87.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_48.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_48.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_86.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_86.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_80.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_80.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\registerinfomodify_chose.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\registerinfomodify_chose.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\about_us.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\about_us.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_39.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_39.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_33.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_33.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_77.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_77.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\friend_photo.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\friend_photo.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_5.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_5.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_71.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_71.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\onlineworkbg.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\onlineworkbg.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\may.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\may.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_90.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_90.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_29.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_29.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_23.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_23.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_96.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_96.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\redhot.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\redhot.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_picture_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_picture_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_37.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_37.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_83.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_83.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\lcm.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\lcm.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_52.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_52.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_97.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_97.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nqn.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\nqn.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_35.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_35.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\icon_sortset_more_select.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\icon_sortset_more_select.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_location_press.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_location_press.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\sex_women.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\sex_women.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_40.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_40.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_21.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_21.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_68.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_68.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_54.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_54.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_camera_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_camera_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_81.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_81.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\loginworkiconed.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\loginworkiconed.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_49.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_49.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_95.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_95.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_50.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_50.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_56.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_56.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ibn.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ibn.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\yuwan_official_avatar.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\yuwan_official_avatar.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_47.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_47.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_78.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_78.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_25.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_25.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_18.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_18.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_66.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_66.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_85.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_85.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_7.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_7.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_video_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_video_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_31.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_31.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\change_password.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\change_password.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\img_oa_tab_select.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\img_oa_tab_select.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_92.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_92.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\coin.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\coin.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_45.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_45.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_44.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_44.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_89.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_89.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_30.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_30.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_75.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_75.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_46.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_46.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\top_showgirl.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\top_showgirl.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\workmessage.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\workmessage.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_27.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_27.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_16.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_16.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\chat_add_location_normal.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\chat_add_location_normal.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\loginworkno.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\loginworkno.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_3.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_3.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\nbz.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\nbz.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_73.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_73.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_17.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_17.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_11.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_11.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_64.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_64.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ncf.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ncf.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_55.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_55.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_10.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_10.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_74.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_74.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_2.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_2.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\zaixiu.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\zaixiu.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\gps_popularity.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\gps_popularity.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\check_update.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\check_update.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_93.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_93.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_26.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_26.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\invite.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\invite.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_99.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_99.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ee_20.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\drawable-xhdpi\\ee_20.png"
+    }
+]

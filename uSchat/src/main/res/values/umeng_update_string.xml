@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="UMUpdateTitle">New version found</string>
+	<string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+	<string name="UMUpdateNow">Update now</string>
+	<string name="UMNotNow">Not now</string>
+	<string name="UMIgnore">Ingore this</string>
+
+</resources>

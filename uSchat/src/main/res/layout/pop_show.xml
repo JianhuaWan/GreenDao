@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="right"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="130dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/all_popuwind_bg"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_boy"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/popupWindow_more_select_height"
+            android:background="@drawable/selector_pop_common"
+            android:drawableLeft="@drawable/icon_add_more_select"
+            android:gravity="center"
+            android:paddingLeft="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:paddingRight="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:text="男"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/light_gray"
+            android:paddingLeft="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:paddingRight="@dimen/popupWindow_more_select_padding_left_or_right" />
+
+        <TextView
+            android:id="@+id/tv_girl"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/popupWindow_more_select_height"
+            android:background="@drawable/selector_pop_common"
+            android:drawableLeft="@drawable/icon_sortset_more_select"
+            android:gravity="center"
+            android:paddingLeft="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:paddingRight="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:text="女"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/light_gray"
+            android:paddingLeft="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:paddingRight="@dimen/popupWindow_more_select_padding_left_or_right" />
+
+        <TextView
+            android:id="@+id/tv_all"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/popupWindow_more_select_height"
+            android:background="@drawable/selector_pop_common"
+            android:drawableLeft="@drawable/icon_sortset_more_select"
+            android:gravity="center"
+            android:paddingLeft="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:paddingRight="@dimen/popupWindow_more_select_padding_left_or_right"
+            android:text="全部"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

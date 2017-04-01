@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_back_verify_dialog.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_back_verify_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_title_layout.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_regist_page.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_regist_page.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_listview_title_layout.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_listview_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_search_title_layout.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_search_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_contacts_listview_item.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_contacts_listview_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_send_msg_dialog.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_send_msg_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_contact_detail_page.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_contact_detail_page.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_country_list_page.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_country_list_page.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_input_identify_num_page.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_input_identify_num_page.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_progress_dialog.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\smssdk_contact_list_page.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\smssdk_contact_list_page.xml"
+    }
+]

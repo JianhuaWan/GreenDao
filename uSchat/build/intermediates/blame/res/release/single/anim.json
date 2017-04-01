@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_pull_sub_y_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_pull_sub_y_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_decelerate_interpolator.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_decelerate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_throw_right_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_throw_right_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_accelerate_interpolator.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_accelerate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_sub_y_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_sub_y_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_accelerate_decelerate.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_accelerate_decelerate.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_pull_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_pull_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\pophidden_anim.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_bottom_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_fade_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_scale_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_scale_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_bottom_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\rorate_loading_login.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\rorate_loading_login.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_flip_right_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_flip_right_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_flip_right_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_flip_right_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_right.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_turn_back.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_turn_back.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_pull_y_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_pull_y_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\view_weel_head_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\view_weel_head_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\radar_rotation.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\radar_rotation.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_flip_left_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_flip_left_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\view_weel_umeng_socialize_fade_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\view_weel_umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_empty.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_empty.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_flip_left_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_flip_left_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_right.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_turn_front.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_turn_front.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_scale_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_scale_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_pull_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_pull_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_fade_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_left.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_pull_y_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_pull_y_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_y_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_y_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\actionsheet_dialog_out.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_throw_right_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_throw_right_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\popshow_anim.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\lsq_push_y_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\TuSDK\\unspecified\\res\\anim\\lsq_push_y_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_left.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\actionsheet_dialog_in.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\rotate.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\anim\\alpha.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\anim\\alpha.xml"
+    }
+]

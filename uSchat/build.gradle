@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            storeFile file('src/MyApp.keystore')
+            keyAlias 'jianhua@keji.com'
+            keyPassword '2782337'
+            storePassword '2782337'
+        }
+    }
+
+    compileSdkVersion 22
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.xiangyue.act"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        disable 'MissingTranslation'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //自动删除 unaligned .apks
+            applicationVariants.all { variant ->
+                variant.assemble.doLast {
+                    variant.outputs.each { output ->
+                        File unaligned = output.packageApplication.outputFile;
+                        File aligned = output.outputFile
+                        if (!unaligned.getName().equalsIgnoreCase(aligned.getName())) {
+                            println "deleting " + unaligned.getName()
+                            unaligned.delete()
+                        }
+                    }
+                }
+            }
+            signingConfig signingConfigs.config
+            zipAlignEnabled true
+        }
+    }
+    productFlavors {
+    }
+    dexOptions {
+        incremental false
+        preDexLibraries = false
+        jumboMode = true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile('com.android.support:appcompat-v7:22.2.0') {
+        exclude module: 'support-annotations'
+    }
+    compile 'com.android.support:recyclerview-v7:22.2.0'
+    compile project(':sMSSDK')
+    compile project(':TuSDK')
+    compile project(':MPChartLib')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/ottolib.jar')
+    compile files('libs/robotium-solo-5.3.0.jar')
+    compile files('libs/androidasync-2.1.6.jar')
+    compile files('libs/eventbus-3.0.0-beta1.jar')
+    compile files('libs/butterknife-7.0.1.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/locSDK_6.13.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/Bmob_Push_V0.9beta_20160520.jar')
+    compile files('libs/BmobSDK_V3.4.7_0527.jar')
+    compile files('libs/okhttp-3.3.1.jar')
+    compile files('libs/okio-1.7.0.jar')
+    compile files('libs/BmobNewIM_2.0.5_20160601.jar')
+    compile files('libs/BmobPay_v3.1.1_170111.jar')
+    compile files('libs/universal-image-loader-1.9.5.jar')
+    compile 'com.github.orangegangsters:swipy:1.2.3@aar'
+}

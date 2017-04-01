@@ -1,0 +1,5 @@
+include ':TuSDK', ':sMSSDK', ':MPChartLib', ':uSchat', ':mockpanda'
+//':mvp_rxjava_retrofit'
+//':testplugin',
+
+

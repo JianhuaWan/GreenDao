@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\raw\\radarsound.wav",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\src\\main\\res\\raw\\radarsound.wav"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\res\\merged\\release\\raw\\smssdk_pydb",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\uSchat\\build\\intermediates\\exploded-aar\\GreenDao\\sMSSDK\\unspecified\\res\\raw\\smssdk_pydb"
+    }
+]
