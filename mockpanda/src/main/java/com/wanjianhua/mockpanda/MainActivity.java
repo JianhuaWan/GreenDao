@@ -86,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void drawingFinished() {
 
+
             }
         });
         danmakuContext = DanmakuContext.create();
@@ -125,7 +126,6 @@ public class MainActivity extends AppCompatActivity {
     /**
      * 随即生成一些内容测试
      *
-     * @param
      */
     private void generateSomeDanmaku() {
         new Thread(new Runnable() {
