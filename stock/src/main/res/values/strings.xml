@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Stock</string>
+    <string name="app_name">炒股助手</string>
+    <string name="splas_title">炒股变得更简单</string>
+    <string name="site">仓位</string>
+    <string name="mine">我的</string>
+    <string name="add">新建</string>
+    <string name="point">目标点</string>
 </resources>
