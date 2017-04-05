@@ -5,4 +5,24 @@
     <string name="mine">我的</string>
     <string name="add">新建</string>
     <string name="point">目标点</string>
+    <string name="base_info">基本信息</string>
+    <string name="name">股票名称</string>
+    <string name="code">股票代码</string>
+    <string name="point_transfrom">目标点/平移</string>
+    <string name="totalPrice">总投入资金</string>
+    <string name="appreciate">涨幅</string>
+    <string name="pricebalance">资金配比</string>
+    <string name="level1">第一梯队</string>
+    <string name="level2">第二梯队</string>
+    <string name="level3">第三梯队</string>
+    <string name="nowprice">当前价位(买入点)</string>
+    <string name="singlecount">单次股数</string>
+    <string name="singleprice">单次投放金额</string>
+    <string name="maxwin">最大赚数</string>
+    <string name="maxloser">最大亏数</string>
+    <string name="save">保存</string>
+    <string name="phonenum">手机号</string>
+    <string name="updatepwd">修改密码</string>
+    <string name="checkversion">检测更新</string>
+    <string name="loginout">退出登录</string>
 </resources>
