@@ -21,7 +21,7 @@
     <string name="maxwin">最大赚数</string>
     <string name="maxloser">最大亏数</string>
     <string name="save">保存</string>
-    <string name="phonenum">手机号</string>
+    <string name="phonenum">手机</string>
     <string name="updatepwd">修改密码</string>
     <string name="checkversion">检测更新</string>
     <string name="loginout">退出登录</string>
