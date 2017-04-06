@@ -48,7 +48,7 @@
     <color name="userlist_gray">#535353</color>
     <color name="common_bg">#ECEDF1</color>
     <color name="common_line">#E4E2E3</color>
-    <color name="gray_normal">#666667</color>
+    <color name="gray_normal">#c0c0c0</color>
     <color name="btn_gray_normal">#c0c0c0</color>
     <color name="top_bar_normal_bg">#f9f9f9</color>
     <color name="text_hint">#ff787878</color>
