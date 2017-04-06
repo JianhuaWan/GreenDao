@@ -25,4 +25,8 @@
     <string name="updatepwd">修改密码</string>
     <string name="checkversion">检测更新</string>
     <string name="loginout">退出登录</string>
+    <string name="wareband1">波段[1]</string>
+    <string name="wareband2">波段[2]</string>
+    <string name="wareband3">波段[3]</string>
+    <string name="bl">1:1:3</string>
 </resources>

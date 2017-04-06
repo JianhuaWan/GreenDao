@@ -22,6 +22,21 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/gray_normal"
+        >
+
+        <TextView
+            android:id="@+id/tv_waveband"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wareband1"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:background="@color/base_color_text_white"
         >
 
