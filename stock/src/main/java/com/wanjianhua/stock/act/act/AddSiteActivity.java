@@ -1,5 +1,6 @@
 package com.wanjianhua.stock.act.act;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
@@ -12,6 +13,7 @@ import android.widget.TextView;
 
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.base.BaseActivity;
+import com.wanjianhua.stock.act.utils.MicroRecruitSettings;
 
 /**
  * Created by wanjianhua on 2017/4/5.
@@ -25,11 +27,13 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
     private TextView tv_add;
     private EditText tv_name, tv_code, tv_point_transfrom, tv_totalPrice;
     private SeekBar tv_appreciate;
+    private MicroRecruitSettings settings;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.addsite_main);
+        settings = new MicroRecruitSettings(this);
         initView();
     }
 
@@ -53,6 +57,11 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                 finish();
                 break;
             case R.id.tv_add:
+                if (settings.PHONE.equals("")) {
+                    Intent intent = new Intent();
+                    intent.setClass(AddSiteActivity.this, LoginActivity.class);
+                    startActivity(intent);
+                }
                 break;
         }
     }
