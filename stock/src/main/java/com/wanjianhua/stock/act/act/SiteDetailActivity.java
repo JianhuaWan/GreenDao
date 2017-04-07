@@ -22,7 +22,7 @@ import java.text.DecimalFormat;
 
 public class SiteDetailActivity extends BaseActivity implements View.OnClickListener {
     private LinearLayout linear_detail;
-    private View childView;
+    private View childView, emtpylayout;
     private TextView tv_levelchild, tv_waveband;
     private SiteInfo siteInfo;
     private TextView name;
@@ -68,6 +68,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
      * 每一波段信息
      */
     private TextView tv_nowprice, tv_nowappreciate, singlecount, tv_singleprice, maxwin, nowtv_maxloser;
+    private LinearLayout linear_top;
 
     private void initView() {
         name = (TextView) findViewById(R.id.name);
@@ -86,6 +87,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                 tv_waveband = (TextView) childView.findViewById(R.id.tv_waveband);
                 //==============================================================
                 tv_nowprice = (TextView) childView.findViewById(R.id.tv_nowprice);
+                linear_top = (LinearLayout) childView.findViewById(R.id.linear_top);
                 tv_nowappreciate = (TextView) childView.findViewById(R.id.tv_nowappreciate);
                 singlecount = (TextView) childView.findViewById(R.id.singlecount);
                 tv_singleprice = (TextView) childView.findViewById(R.id.tv_singleprice);
@@ -116,7 +118,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_waveband.setText(getString(R.string.wareband1));
                     } else if (j == 1) {
                         tv_waveband.setText(getString(R.string.wareband2));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
@@ -136,7 +138,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         nowtv_maxloser.setText(win1_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
@@ -179,7 +181,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_waveband.setText(getString(R.string.wareband1));
                     } else if (j == 1) {
                         tv_waveband.setText(getString(R.string.wareband2));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
@@ -199,7 +201,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         nowtv_maxloser.setText(win2_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
@@ -243,7 +245,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         nowtv_maxloser.setText(win2_3 + "元");
                     } else if (j == 1) {
                         tv_waveband.setText(getString(R.string.wareband2));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
@@ -263,7 +265,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         nowtv_maxloser.setText(win3_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
-                        tv_levelchild.setVisibility(View.GONE);
+                        linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));

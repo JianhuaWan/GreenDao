@@ -9,7 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.act.WelcomeActivity;
@@ -62,6 +61,17 @@ public class MineFragment extends Fragment implements View.OnClickListener {
                 startActivity(intent);
                 getActivity().finish();
                 break;
+        }
+    }
+
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        if (settings.PHONE.getValue().equals("")) {
+            tv_phonenum.setText(getString(R.string.nologin));
+        } else {
+            tv_phonenum.setText(settings.PHONE.getValue().toString());
         }
     }
 }

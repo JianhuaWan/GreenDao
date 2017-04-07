@@ -70,8 +70,8 @@ public class SiteAdapter extends BaseAdapter {
             viewHolder = (ViewHolder) convertView.getTag();
         }
         viewHolder.tv_name.setText(jsonBeans.get(position).getName());
-        viewHolder.tv_code.setText(jsonBeans.get(position).getCode());
-        viewHolder.tv_price.setText(jsonBeans.get(position).getSingleprice());
+        viewHolder.tv_code.setText(context.getString(R.string.code) + ":" + jsonBeans.get(position).getCode());
+        viewHolder.tv_price.setText(jsonBeans.get(position).getSingleprice() + "元");
         viewHolder.rel_bottom.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

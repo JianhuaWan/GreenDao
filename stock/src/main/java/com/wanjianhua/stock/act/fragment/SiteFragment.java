@@ -1,6 +1,5 @@
 package com.wanjianhua.stock.act.fragment;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,6 +13,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.squareup.otto.Subscribe;
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.act.AddSiteActivity;
 import com.wanjianhua.stock.act.act.LoginActivity;
@@ -41,6 +41,8 @@ public class SiteFragment extends Fragment {
     private List<SiteInfo> infoList = new ArrayList<>();
     private SwipeRefreshLayout swipe;
     private MicroRecruitSettings settings;
+    private boolean isexute = true;
+
 
     @Nullable
     @Override
@@ -85,6 +87,7 @@ public class SiteFragment extends Fragment {
                     swipe.setRefreshing(false);
                     Intent intent = new Intent();
                     intent.setClass(getActivity(), LoginActivity.class);
+                    isexute = true;
                     startActivity(intent);
                 } else {
                     queryInfo();
@@ -95,6 +98,8 @@ public class SiteFragment extends Fragment {
 
     private void queryInfo() {
         infoList.clear();
+        adapter.setData(infoList);
+        isexute = false;
         if (!NetUtils.isNetworkAvailable(getActivity())) {
             Toast.makeText(getActivity(), getString(R.string.netfial), Toast.LENGTH_LONG).show();
             swipe.setRefreshing(false);
@@ -124,4 +129,13 @@ public class SiteFragment extends Fragment {
         });
     }
 
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        if (isexute) {
+            swipe.setRefreshing(true);
+            queryInfo();
+        }
+    }
 }

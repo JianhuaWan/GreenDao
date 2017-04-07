@@ -31,14 +31,12 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
     private Button btn_login;
     private MicroRecruitSettings settings;
 
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_main);
         settings = new MicroRecruitSettings(this);
         initView();
-
     }
 
     private void initView() {
@@ -64,12 +62,12 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
                     query.findObjects(new FindListener<UserPhone>() {
                         @Override
                         public void done(List<UserPhone> list, BmobException e) {
-                            if (list.size() > 0) {
+                            if (list != null && list.size() > 0) {
                                 if (list.get(0).getPwd().equals(et_pwd.getText().toString())) {
                                     settings.PHONE.setValue(list.get(0).getPhone().toString());
                                     finish();
                                 } else {
-                                    Toast.makeText(LoginActivity.this, getString(R.string.loginfial), Toast.LENGTH_LONG).show();
+                                    Toast.makeText(LoginActivity.this, getString(R.string.pwderror), Toast.LENGTH_LONG).show();
                                 }
                             } else {
                                 Toast.makeText(LoginActivity.this, getString(R.string.loginfial), Toast.LENGTH_LONG).show();

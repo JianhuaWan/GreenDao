@@ -24,7 +24,7 @@ public class MainActivity extends BaseActivity {
     }
 
     private void initValues() {
-        context=this;
+        context = this;
     }
 
     private void initView() {

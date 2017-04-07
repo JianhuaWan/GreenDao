@@ -27,7 +27,8 @@
             android:layout_centerVertical="true"
             android:layout_marginRight="15dp"
             android:text="@string/add"
-            android:textColor="@color/white"/>
+            android:textColor="@color/white"
+            />
     </RelativeLayout>
 
     <android.support.v4.widget.SwipeRefreshLayout
