@@ -8,7 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.act.WelcomeActivity;
@@ -24,6 +26,7 @@ public class MineFragment extends Fragment implements View.OnClickListener {
     private TextView tv_phonenum, checkversion;
     private Button btn_loginout;
     private MicroRecruitSettings settings;
+    private LinearLayout linear_check;
 
     @Nullable
     @Override
@@ -49,6 +52,8 @@ public class MineFragment extends Fragment implements View.OnClickListener {
         checkversion = (TextView) root.findViewById(R.id.checkversion);
         btn_loginout = (Button) root.findViewById(R.id.btn_loginout);
         btn_loginout.setOnClickListener(this);
+        linear_check = (LinearLayout) root.findViewById(R.id.linear_check);
+        linear_check.setOnClickListener(this);
     }
 
     @Override
@@ -60,6 +65,9 @@ public class MineFragment extends Fragment implements View.OnClickListener {
                 intent.setClass(getActivity(), WelcomeActivity.class);
                 startActivity(intent);
                 getActivity().finish();
+                break;
+            case R.id.linear_check:
+                Toast.makeText(getActivity(), NetUtils.getVersion(getActivity()), Toast.LENGTH_LONG).show();
                 break;
         }
     }

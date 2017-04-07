@@ -41,4 +41,5 @@
     <string name="nologin">尚未登录</string>
     <string name="no100"> (不足100股,请核对)</string>
     <string name="bfb"> -30%</string>
+    <string name="infonotwrite"> 信息输入不完整</string>
 </resources>

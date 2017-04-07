@@ -62,13 +62,13 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                 finish();
                 break;
             case R.id.tv_add:
-                if (settings.PHONE.equals("")) {
+                if (settings.PHONE.getValue().equals("")) {
                     Intent intent = new Intent();
                     intent.setClass(AddSiteActivity.this, LoginActivity.class);
                     startActivity(intent);
                 } else {
                     if (tv_name.getText().toString().isEmpty() || tv_code.getText().toString().isEmpty() || tv_totalPrice.getText().toString().isEmpty() || tv_point_transfrom.getText().toString().isEmpty()) {
-                        Toast.makeText(AddSiteActivity.this, getString(R.string.name), Toast.LENGTH_LONG).show();
+                        Toast.makeText(AddSiteActivity.this, getString(R.string.infonotwrite), Toast.LENGTH_LONG).show();
                         return;
                     } else {
                         //添加一行数据

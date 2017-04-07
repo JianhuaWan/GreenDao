@@ -68,14 +68,15 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
-                    android:layout_width="60dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/name"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -83,8 +84,9 @@
                 <EditText
                     android:id="@+id/tv_name"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:textColor="@color/black"
                     android:textSize="14dp"
                     />
@@ -92,14 +94,15 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
-                    android:layout_width="60dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/code"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -107,22 +110,24 @@
                 <EditText
                     android:id="@+id/tv_code"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
-                    android:layout_width="60dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/point_transfrom"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -130,22 +135,24 @@
                 <EditText
                     android:id="@+id/tv_point_transfrom"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
-                    android:layout_width="60dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/totalPrice"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -153,22 +160,24 @@
                 <EditText
                     android:id="@+id/tv_totalPrice"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
-                    android:layout_width="60dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/appreciate"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -176,8 +185,9 @@
                 <TextView
                     android:id="@+id/tv_appreciate"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:text="@string/bfb"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -192,8 +202,9 @@
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/pricebalance"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -201,14 +212,15 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
+                android:layout_height="50dp"
                 android:background="@color/base_color_text_white"
                 >
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center|left"
                     android:text="@string/pricebalance"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
@@ -216,8 +228,9 @@
                 <TextView
                     android:id="@+id/tv_pricebalance"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="right"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="10dp"
+                    android:gravity="center|right"
                     android:text="@string/bl"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
