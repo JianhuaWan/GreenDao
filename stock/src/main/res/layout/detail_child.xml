@@ -67,7 +67,7 @@
             />
 
         <TextView
-            android:id="@+id/tv_appreciate"
+            android:id="@+id/tv_nowappreciate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             />
@@ -147,7 +147,7 @@
             />
 
         <TextView
-            android:id="@+id/tv_maxloser"
+            android:id="@+id/tv_nowmaxloser"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             />

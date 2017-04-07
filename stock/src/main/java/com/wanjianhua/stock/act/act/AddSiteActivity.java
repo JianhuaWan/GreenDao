@@ -10,10 +10,15 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.base.BaseActivity;
+import com.wanjianhua.stock.act.bean.SiteInfo;
 import com.wanjianhua.stock.act.utils.MicroRecruitSettings;
+
+import cn.bmob.v3.exception.BmobException;
+import cn.bmob.v3.listener.SaveListener;
 
 /**
  * Created by wanjianhua on 2017/4/5.
@@ -61,6 +66,36 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                     Intent intent = new Intent();
                     intent.setClass(AddSiteActivity.this, LoginActivity.class);
                     startActivity(intent);
+                } else {
+                    if (tv_name.getText().toString().isEmpty() || tv_code.getText().toString().isEmpty() || tv_totalPrice.getText().toString().isEmpty() || tv_point_transfrom.getText().toString().isEmpty()) {
+                        Toast.makeText(AddSiteActivity.this, getString(R.string.name), Toast.LENGTH_LONG).show();
+                        return;
+                    } else {
+                        //添加一行数据
+                        SiteInfo siteInfo = new SiteInfo();
+                        siteInfo.setPhone(settings.PHONE.getValue().toString());
+                        siteInfo.setName(tv_name.getText().toString());
+                        siteInfo.setCode(tv_code.getText().toString());
+                        siteInfo.setSingleprice(tv_point_transfrom.getText().toString());
+                        siteInfo.setTotalprice(tv_totalPrice.getText().toString());
+                        siteInfo.setBalance("1:1:3");
+                        siteInfo.setAppreciate(tv_appreciate.getProgress() + "%");
+                        siteInfo.save(new SaveListener<String>() {
+                            @Override
+                            public void done(String s, BmobException e) {
+                                if (e == null) {
+                                    Toast.makeText(AddSiteActivity.this, getString(R.string.savepass), Toast.LENGTH_LONG).show();
+                                    tv_name.setText("");
+                                    tv_code.setText("");
+                                    tv_point_transfrom.setText("");
+                                    tv_totalPrice.setText("");
+                                    tv_appreciate.setProgress(0);
+                                } else {
+                                    Toast.makeText(AddSiteActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+                                }
+                            }
+                        });
+                    }
                 }
                 break;
         }

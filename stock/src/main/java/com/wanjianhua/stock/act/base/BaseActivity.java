@@ -27,19 +27,5 @@ public class BaseActivity extends FragmentActivity {
         super.onDestroy();
     }
 
-    /**
-     * 获取当前应用程序的版本号
-     */
-    public String getVersion() {
-        String st = "0";
-        PackageManager pm = getPackageManager();
-        try {
-            PackageInfo packinfo = pm.getPackageInfo(getPackageName(), 0);
-            String version = packinfo.versionName;
-            return version;
-        } catch (PackageManager.NameNotFoundException e) {
-            e.printStackTrace();
-            return st;
-        }
-    }
+
 }

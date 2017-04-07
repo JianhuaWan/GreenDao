@@ -55,7 +55,7 @@ public class SiteAdapter extends BaseAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(final int position, View convertView, ViewGroup parent) {
         ViewHolder viewHolder;
         if (convertView == null) {
             viewHolder = new ViewHolder();
@@ -71,11 +71,12 @@ public class SiteAdapter extends BaseAdapter {
         }
         viewHolder.tv_name.setText(jsonBeans.get(position).getName());
         viewHolder.tv_code.setText(jsonBeans.get(position).getCode());
-        viewHolder.tv_price.setText(jsonBeans.get(position).getPrice());
+        viewHolder.tv_price.setText(jsonBeans.get(position).getSingleprice());
         viewHolder.rel_bottom.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent();
+                intent.putExtra("info", jsonBeans.get(position));
                 intent.setClass(context, SiteDetailActivity.class);
                 context.startActivity(intent);
             }

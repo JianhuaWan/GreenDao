@@ -3,17 +3,20 @@ package com.wanjianhua.stock.act.bean;
 import java.io.Serializable;
 import java.util.List;
 
+import cn.bmob.v3.BmobObject;
+
 /**
  * Created by wanjianhua on 2017/4/5.
  */
 
-public class SiteInfo implements Serializable {
+public class SiteInfo extends BmobObject implements Serializable {
     private String name;//名称
     private String code;//代码
-    private String price;//买入价格
+    private String singleprice;//买入价格
     private String totalprice;//总投入
     private String appreciate;//涨幅
-    private List<Echelon> echelons;//梯队信息
+    private String phone;//手机号
+    private String balance;//资金配比
 
     public String getName() {
         return name;
@@ -31,12 +34,12 @@ public class SiteInfo implements Serializable {
         this.code = code;
     }
 
-    public String getPrice() {
-        return price;
+    public String getSingleprice() {
+        return singleprice;
     }
 
-    public void setPrice(String price) {
-        this.price = price;
+    public void setSingleprice(String singleprice) {
+        this.singleprice = singleprice;
     }
 
     public String getTotalprice() {
@@ -55,80 +58,19 @@ public class SiteInfo implements Serializable {
         this.appreciate = appreciate;
     }
 
-    public List<Echelon> getEchelons() {
-        return echelons;
+    public String getPhone() {
+        return phone;
     }
 
-    public void setEchelons(List<Echelon> echelons) {
-        this.echelons = echelons;
+    public void setPhone(String phone) {
+        this.phone = phone;
     }
 
-    class Echelon implements Serializable {
-        private List<Waveband> wavebands;//波段信息
+    public String getBalance() {
+        return balance;
+    }
 
-        public List<Waveband> getWavebands() {
-            return wavebands;
-        }
-
-        public void setWavebands(List<Waveband> wavebands) {
-            this.wavebands = wavebands;
-        }
-
-        class Waveband implements Serializable {
-            private String nowprice;
-            private String nowappreciate;
-            private String singlecount;
-            private String singleprice;
-            private String maxwin;
-            private String maxloser;
-
-            public String getNowprice() {
-                return nowprice;
-            }
-
-            public void setNowprice(String nowprice) {
-                this.nowprice = nowprice;
-            }
-
-            public String getNowappreciate() {
-                return nowappreciate;
-            }
-
-            public void setNowappreciate(String nowappreciate) {
-                this.nowappreciate = nowappreciate;
-            }
-
-            public String getSinglecount() {
-                return singlecount;
-            }
-
-            public void setSinglecount(String singlecount) {
-                this.singlecount = singlecount;
-            }
-
-            public String getSingleprice() {
-                return singleprice;
-            }
-
-            public void setSingleprice(String singleprice) {
-                this.singleprice = singleprice;
-            }
-
-            public String getMaxwin() {
-                return maxwin;
-            }
-
-            public void setMaxwin(String maxwin) {
-                this.maxwin = maxwin;
-            }
-
-            public String getMaxloser() {
-                return maxloser;
-            }
-
-            public void setMaxloser(String maxloser) {
-                this.maxloser = maxloser;
-            }
-        }
+    public void setBalance(String balance) {
+        this.balance = balance;
     }
 }
