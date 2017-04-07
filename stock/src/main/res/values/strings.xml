@@ -10,7 +10,7 @@
     <string name="code">股票代码</string>
     <string name="point_transfrom">目标点/平移</string>
     <string name="totalPrice">总投入资金</string>
-    <string name="appreciate">涨幅</string>
+    <string name="appreciate">跌幅</string>
     <string name="pricebalance">资金配比</string>
     <string name="level1">第一梯队</string>
     <string name="level2">第二梯队</string>
@@ -38,4 +38,6 @@
     <string name="nodata">暂无数据</string>
     <string name="totalcount">总股数</string>
     <string name="nologin">尚未登录</string>
+    <string name="no100"> (不足100股,请核对)</string>
+    <string name="bfb"> -30%</string>
 </resources>

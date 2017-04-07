@@ -31,7 +31,7 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
     private ImageView img_back;
     private TextView tv_add;
     private EditText tv_name, tv_code, tv_point_transfrom, tv_totalPrice;
-    private SeekBar tv_appreciate;
+    private TextView tv_appreciate;
     private MicroRecruitSettings settings;
 
     @Override
@@ -52,7 +52,7 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
         tv_add = (TextView) findViewById(R.id.tv_add);
         tv_add.setOnClickListener(this);
         linear_detail = (LinearLayout) findViewById(R.id.linear_detail);
-        tv_appreciate = (SeekBar) findViewById(R.id.tv_appreciate);
+        tv_appreciate = (TextView) findViewById(R.id.tv_appreciate);
     }
 
     @Override
@@ -79,7 +79,7 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                         siteInfo.setSingleprice(tv_point_transfrom.getText().toString());
                         siteInfo.setTotalprice(tv_totalPrice.getText().toString());
                         siteInfo.setBalance("1:1:3");
-                        siteInfo.setAppreciate(tv_appreciate.getProgress() + "%");
+                        siteInfo.setAppreciate("-30%");
                         siteInfo.save(new SaveListener<String>() {
                             @Override
                             public void done(String s, BmobException e) {
@@ -89,7 +89,6 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                                     tv_code.setText("");
                                     tv_point_transfrom.setText("");
                                     tv_totalPrice.setText("");
-                                    tv_appreciate.setProgress(0);
                                 } else {
                                     Toast.makeText(AddSiteActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
                                 }

@@ -153,11 +153,12 @@
                     android:layout_height="wrap_content"
                     android:text="@string/appreciate"/>
 
-                <SeekBar
+                <TextView
                     android:id="@+id/tv_appreciate"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:gravity="right"/>
+                    android:gravity="right"
+                    android:text="@string/bfb"/>
             </LinearLayout>
 
             <LinearLayout
