@@ -112,8 +112,13 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             singlecount.setText(overcount + "00");
                         }
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
-                        win1_1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
-                        maxwin.setText((price - nowprice) * Integer.parseInt(overcount + "00") + "");
+
+                        String tempwin = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
+                        if (tempwin.contains(".")) {
+                            String temps[] = tempwin.split("\\.");
+                            win1_1 = temps[0];
+                        }
+                        maxwin.setText(win1_1);
                         nowtv_maxloser.setText(0 + "元");
                         tv_waveband.setText(getString(R.string.wareband1));
                     } else if (j == 1) {
@@ -134,6 +139,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win1_2 = (Float.parseFloat(tem1) + Float.parseFloat(win1_1)) + "";
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
+                        if (win1_2.contains(".")) {
+                            String tems[] = win1_2.split("\\.");
+                            win1_2 = tems[0];
+                        }
                         maxwin.setText(win1_2);
                         nowtv_maxloser.setText(win1_1 + "元");
                     } else if (j == 2) {
@@ -154,6 +163,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win1_3 = (Float.parseFloat(tem1) + Float.parseFloat(win1_2)) + "";
+                        if (win1_3.contains(".")) {
+                            String temps[] = win1_3.split("\\.");
+                            win1_3 = temps[0];
+                        }
                         maxwin.setText(win1_3);
                         nowtv_maxloser.setText(win1_2 + "元");
                     }
@@ -176,6 +189,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win2_1 = (Float.parseFloat(tem1) + Float.parseFloat(win1_3)) + "";
+                        if (win2_1.contains(".")) {
+                            String tems[] = win2_1.split("\\.");
+                            win2_1 = tems[0];
+                        }
                         maxwin.setText(win2_1);
                         nowtv_maxloser.setText(win1_3 + "元");
                         tv_waveband.setText(getString(R.string.wareband1));
@@ -197,6 +214,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win2_2 = (Float.parseFloat(tem1) + Float.parseFloat(win2_1)) + "";
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
+                        if (win2_2.contains(".")) {
+                            String tems[] = win2_2.split("\\.");
+                            win2_2 = tems[0];
+                        }
                         maxwin.setText(win2_2);
                         nowtv_maxloser.setText(win2_1 + "元");
                     } else if (j == 2) {
@@ -217,6 +238,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win2_3 = (Float.parseFloat(tem1) + Float.parseFloat(win2_2)) + "";
+                        if (win2_3.contains(".")) {
+                            String tems[] = win2_3.split("\\.");
+                            win2_3 = tems[0];
+                        }
                         maxwin.setText(win2_3);
                         nowtv_maxloser.setText(win2_2 + "元");
 
@@ -241,6 +266,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_1 = (Float.parseFloat(tem1) + Float.parseFloat(win2_3)) + "";
+                        if (win3_1.contains(".")) {
+                            String tems[] = win3_1.split("\\.");
+                            win3_1 = tems[0];
+                        }
                         maxwin.setText(win3_1);
                         nowtv_maxloser.setText(win2_3 + "元");
                     } else if (j == 1) {
@@ -261,6 +290,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_2 = (Float.parseFloat(tem1) + Float.parseFloat(win3_1)) + "";
                         tv_singleprice.setText(totalprice / 5 / 5 + "");
+                        if (win3_2.contains(".")) {
+                            String tems[] = win3_2.split("\\.");
+                            win3_2 = tems[0];
+                        }
                         maxwin.setText(win3_2);
                         nowtv_maxloser.setText(win3_1 + "元");
                     } else if (j == 2) {
@@ -281,6 +314,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_3 = (Float.parseFloat(tem1) + Float.parseFloat(win3_2)) + "";
+                        if (win3_3.contains(".")) {
+                            String tems[] = win3_3.split("\\.");
+                            win3_3 = tems[0];
+                        }
                         maxwin.setText(win3_3);
                         nowtv_maxloser.setText(win3_2 + "元");
                     }
@@ -288,6 +325,9 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
             }
 
         }
+        emtpylayout = LayoutInflater.from(SiteDetailActivity.this).inflate(
+                R.layout.empty, null);
+        linear_detail.addView(emtpylayout, 11);
     }
 
     @Override

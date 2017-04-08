@@ -49,7 +49,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/nowprice"
@@ -59,9 +59,11 @@
 
         <TextView
             android:id="@+id/tv_nowprice"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+            android:gravity="right"
             android:textColor="@color/black"
             android:textSize="14dp"
             />
@@ -75,7 +77,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/appreciate"
@@ -85,9 +87,11 @@
 
         <TextView
             android:id="@+id/tv_nowappreciate"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+            android:gravity="right"
             android:textColor="@color/black"
             android:textSize="14dp"
             />
@@ -101,7 +105,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/singlecount"
@@ -111,9 +115,11 @@
 
         <TextView
             android:id="@+id/singlecount"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+            android:gravity="right"
             android:textColor="@color/black"
             android:textSize="14dp"
             />
@@ -127,7 +133,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/singleprice"
@@ -137,9 +143,11 @@
 
         <TextView
             android:id="@+id/tv_singleprice"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+            android:gravity="right"
             android:textColor="@color/black"
             android:textSize="14dp"
             />
@@ -153,7 +161,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/maxwin"
@@ -163,9 +171,11 @@
 
         <TextView
             android:id="@+id/maxwin"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+            android:gravity="right"
             android:textColor="@color/black"
             android:textSize="14dp"
             />
@@ -179,7 +189,7 @@
         >
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:text="@string/maxloser"
@@ -189,9 +199,13 @@
 
         <TextView
             android:id="@+id/tv_nowmaxloser"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
             android:layout_marginRight="20dp"
+
+            android:gravity="right"
+
             android:textColor="@color/black"
             android:textSize="14dp"
             />
