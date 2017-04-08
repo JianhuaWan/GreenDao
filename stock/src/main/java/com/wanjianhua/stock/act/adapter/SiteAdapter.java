@@ -72,16 +72,15 @@ public class SiteAdapter extends BaseAdapter {
         viewHolder.tv_name.setText(jsonBeans.get(position).getName());
         viewHolder.tv_code.setText(context.getString(R.string.code) + ":" + jsonBeans.get(position).getCode());
         viewHolder.tv_price.setText(jsonBeans.get(position).getSingleprice() + "元");
-        viewHolder.rel_bottom.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent();
-                intent.putExtra("info", jsonBeans.get(position));
-                intent.setClass(context, SiteDetailActivity.class);
-                context.startActivity(intent);
-            }
-        });
-
+//        viewHolder.rel_bottom.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent();
+//                intent.putExtra("info", jsonBeans.get(position));
+//                intent.setClass(context, SiteDetailActivity.class);
+//                context.startActivity(intent);
+//            }
+//        });
         return convertView;
     }
 

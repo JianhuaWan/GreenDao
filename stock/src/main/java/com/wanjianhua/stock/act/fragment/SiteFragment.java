@@ -9,16 +9,18 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.squareup.otto.Subscribe;
 import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.act.AddSiteActivity;
 import com.wanjianhua.stock.act.act.LoginActivity;
+import com.wanjianhua.stock.act.act.SiteDetailActivity;
 import com.wanjianhua.stock.act.adapter.SiteAdapter;
 import com.wanjianhua.stock.act.bean.SiteInfo;
+import com.wanjianhua.stock.act.utils.ActionSheetDialog;
 import com.wanjianhua.stock.act.utils.MicroRecruitSettings;
 import com.wanjianhua.stock.act.utils.NetUtils;
 
@@ -28,6 +30,7 @@ import java.util.List;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.FindListener;
+import cn.bmob.v3.listener.UpdateListener;
 
 /**
  * Created by wanjianhua on 2017/4/5.
@@ -50,8 +53,60 @@ public class SiteFragment extends Fragment {
         root = (ViewGroup) inflater.inflate(R.layout.site_main, container, false);
         initView(root);
         loadate();
+        setLisenr();
         return root;
     }
+
+    private void setLisenr() {
+        list_info.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
+            @Override
+            public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
+                final SiteInfo siteInfo = (SiteInfo) adapter.getItem(position);
+                new ActionSheetDialog(getActivity()).builder().setCancelable(false)
+                        .setCanceledOnTouchOutside(false)
+                        .addSheetItem("删除", ActionSheetDialog.SheetItemColor.Blue, new ActionSheetDialog.OnSheetItemClickListener() {
+                            public void onClick(int which) {
+                                del(siteInfo);
+                            }
+                        })
+                        .show();
+
+                return true;
+            }
+        });
+
+        list_info.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                Intent intent = new Intent();
+                SiteInfo siteInfo = (SiteInfo) adapter.getItem(position);
+                intent.putExtra("info", siteInfo);
+                intent.setClass(getActivity(), SiteDetailActivity.class);
+                startActivity(intent);
+            }
+        });
+    }
+
+
+    /**
+     * 删除操作
+     */
+    private void del(SiteInfo siteInfo) {
+        siteInfo.setObjectId(siteInfo.getObjid());
+        siteInfo.delete(new UpdateListener() {
+            @Override
+            public void done(BmobException e) {
+                if (e != null) {
+                    swipe.setRefreshing(true);
+                    queryInfo();
+                } else {
+                    swipe.setRefreshing(false);
+                    Toast.makeText(getActivity(), e.getMessage(), Toast.LENGTH_LONG).show();
+                }
+            }
+        });
+    }
+
 
     private void loadate() {
         if (settings.PHONE.getValue().equals("")) {
@@ -119,6 +174,7 @@ public class SiteFragment extends Fragment {
                         info.setCode(list.get(i).getCode());
                         info.setSingleprice(list.get(i).getSingleprice());
                         info.setTotalprice(list.get(i).getTotalprice());
+                        info.setObjid(list.get(i).getObjectId());
                         infoList.add(info);
                     }
                     adapter.setData(infoList);

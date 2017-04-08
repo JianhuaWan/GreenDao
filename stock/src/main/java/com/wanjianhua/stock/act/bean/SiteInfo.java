@@ -17,6 +17,15 @@ public class SiteInfo extends BmobObject implements Serializable {
     private String appreciate;//涨幅
     private String phone;//手机号
     private String balance;//资金配比
+    private String objid;//删除用
+
+    public String getObjid() {
+        return objid;
+    }
+
+    public void setObjid(String objid) {
+        this.objid = objid;
+    }
 
     public String getName() {
         return name;
