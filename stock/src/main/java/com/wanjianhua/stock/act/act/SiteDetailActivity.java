@@ -118,7 +118,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String temps[] = tempwin.split("\\.");
                             win1_1 = temps[0];
                         }
-                        maxwin.setText(win1_1);
+                        maxwin.setText(win1_1 + "元");
                         nowtv_maxloser.setText(0 + "元");
                         tv_waveband.setText(getString(R.string.wareband1));
                     } else if (j == 1) {
@@ -143,7 +143,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String tems[] = win1_2.split("\\.");
                             win1_2 = tems[0];
                         }
-                        maxwin.setText(win1_2);
+                        maxwin.setText(win1_2 + "元");
                         nowtv_maxloser.setText(win1_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
@@ -167,14 +167,14 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String temps[] = win1_3.split("\\.");
                             win1_3 = temps[0];
                         }
-                        maxwin.setText(win1_3);
+                        maxwin.setText(win1_3 + "元");
                         nowtv_maxloser.setText(win1_2 + "元");
                     }
                 } else if (i == 1) {
                     tv_levelchild.setText(getString(R.string.level2));
                     if (j == 0) {
                         //默认比例1:1:3
-                        float nowprice = (float) (price * (1 - 0.033));
+                        float nowprice = (float) (price * (1 - 0.033 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-3.3%");
@@ -193,13 +193,13 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String tems[] = win2_1.split("\\.");
                             win2_1 = tems[0];
                         }
-                        maxwin.setText(win2_1);
+                        maxwin.setText(win2_1 + "元");
                         nowtv_maxloser.setText(win1_3 + "元");
                         tv_waveband.setText(getString(R.string.wareband1));
                     } else if (j == 1) {
                         tv_waveband.setText(getString(R.string.wareband2));
                         linear_top.setVisibility(View.GONE);
-                        float nowprice = (float) (price * (1 - 0.066));
+                        float nowprice = (float) (price * (1 - 0.066 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-6.6%");
@@ -218,12 +218,12 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String tems[] = win2_2.split("\\.");
                             win2_2 = tems[0];
                         }
-                        maxwin.setText(win2_2);
+                        maxwin.setText(win2_2 + "元");
                         nowtv_maxloser.setText(win2_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
                         linear_top.setVisibility(View.GONE);
-                        float nowprice = (float) (price * (1 - 0.099));
+                        float nowprice = (float) (price * (1 - 0.099 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-9.9%");
@@ -242,7 +242,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                             String tems[] = win2_3.split("\\.");
                             win2_3 = tems[0];
                         }
-                        maxwin.setText(win2_3);
+                        maxwin.setText(win2_3 + "元");
                         nowtv_maxloser.setText(win2_2 + "元");
 
                     }
@@ -251,7 +251,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                     if (j == 0) {
                         tv_waveband.setText(getString(R.string.wareband1));
                         //默认比例1:1:3
-                        float nowprice = (float) (price * (1 - 0.033));
+                        float nowprice = (float) (price * (1 - 0.033 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-3.3%");
@@ -263,19 +263,19 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         } else {
                             singlecount.setText(overcount + "00");
                         }
-                        tv_singleprice.setText(totalprice / 5 / 5 + "");
+                        tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_1 = (Float.parseFloat(tem1) + Float.parseFloat(win2_3)) + "";
                         if (win3_1.contains(".")) {
                             String tems[] = win3_1.split("\\.");
                             win3_1 = tems[0];
                         }
-                        maxwin.setText(win3_1);
+                        maxwin.setText(win3_1 + "元");
                         nowtv_maxloser.setText(win2_3 + "元");
                     } else if (j == 1) {
                         tv_waveband.setText(getString(R.string.wareband2));
                         linear_top.setVisibility(View.GONE);
-                        float nowprice = (float) (price * (1 - 0.066));
+                        float nowprice = (float) (price * (1 - 0.066 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-6.6%");
@@ -289,17 +289,17 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         }
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_2 = (Float.parseFloat(tem1) + Float.parseFloat(win3_1)) + "";
-                        tv_singleprice.setText(totalprice / 5 / 5 + "");
+                        tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
                         if (win3_2.contains(".")) {
                             String tems[] = win3_2.split("\\.");
                             win3_2 = tems[0];
                         }
-                        maxwin.setText(win3_2);
+                        maxwin.setText(win3_2 + "元");
                         nowtv_maxloser.setText(win3_1 + "元");
                     } else if (j == 2) {
                         tv_waveband.setText(getString(R.string.wareband3));
                         linear_top.setVisibility(View.GONE);
-                        float nowprice = (float) (price * (1 - 0.099));
+                        float nowprice = (float) (price * (1 - 0.099 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
                         tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowappreciate.setText("-9.9%");
@@ -311,14 +311,14 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         } else {
                             singlecount.setText(overcount + "00");
                         }
-                        tv_singleprice.setText(totalprice / 5 / 5 * 3 + "");
+                        tv_singleprice.setText(totalprice / 5 / 5 * 3 * 3 + "");
                         String tem1 = (price - nowprice) * Integer.parseInt(overcount + "00") + "";
                         win3_3 = (Float.parseFloat(tem1) + Float.parseFloat(win3_2)) + "";
                         if (win3_3.contains(".")) {
                             String tems[] = win3_3.split("\\.");
                             win3_3 = tems[0];
                         }
-                        maxwin.setText(win3_3);
+                        maxwin.setText(win3_3 + "元");
                         nowtv_maxloser.setText(win3_2 + "元");
                     }
                 }

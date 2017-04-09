@@ -1,19 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            storeFile file('C:/Users/wanjianhua.DONGZHOU/Desktop/MyApp.keystore')
-            keyAlias 'jianhua@keji.com'
-            keyPassword '2782337'
-            storePassword '2782337'
-        }
-    }
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
         applicationId "com.wanjianhua.stock"
-        minSdkVersion 19
+        minSdkVersion 15
         targetSdkVersion 23
         versionCode 7
         versionName "V2.2.8"
@@ -31,6 +23,9 @@ android {
         main {
             jniLibs.srcDirs = ['libs']
         }
+    }
+    lintOptions{
+        abortOnError false
     }
 }
 
