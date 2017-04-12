@@ -113,7 +113,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //默认比例1:1:3
                         float nowprice = (float) (price * (1 - 0.033));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-3.3%");
                         int count = (int) (totalprice / 5 / 5 / nowprice);
                         String temp = count + "";
@@ -138,7 +139,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-6.6%");
                         int count = (int) (totalprice / 5 / 5 / nowprice);
                         String temp = count + "";
@@ -162,7 +164,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-9.9%");
                         int count = (int) (totalprice / 5 / 5 * 3 / nowprice);
                         String temp = count + "";
@@ -188,8 +191,10 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //默认比例1:1:3
                         float nowprice = (float) (price * (1 - 0.033 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-13.2%");
+
                         int count = (int) (totalprice / 5 / 5 / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
@@ -213,7 +218,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-19.8%");
                         int count = (int) (totalprice / 5 / 5 / nowprice);
                         String temp = count + "";
@@ -237,7 +243,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099 - 0.099));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-29.7%");
                         int count = (int) (totalprice / 5 / 5 * 3 / nowprice);
                         String temp = count + "";
@@ -265,7 +272,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //默认比例1:1:3
                         float nowprice = (float) (price * (1 - 0.033 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-33%");
                         int count = (int) (totalprice / 5 / 5 * 3 / nowprice);
                         String temp = count + "";
@@ -289,7 +297,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.066 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-39.6%");
                         int count = (int) (totalprice / 5 / 5 * 3 / nowprice);
                         String temp = count + "";
@@ -313,7 +322,8 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         linear_top.setVisibility(View.GONE);
                         float nowprice = (float) (price * (1 - 0.099 - 0.198));
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
-                        tv_nowprice.setText(decimalFormat.format(nowprice));
+//                        tv_nowprice.setText(decimalFormat.format(nowprice));
+                        tv_nowprice.setText(nowprice + "");
                         tv_nowappreciate.setText("-49.5%");
                         int count = (int) (totalprice / 5 / 5 * 3 * 3 / nowprice);
                         String temp = count + "";
