@@ -59,7 +59,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/totalPrice"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
 
                     <TextView
                         android:id="@+id/tv_totalprice"
@@ -68,8 +68,31 @@
                         android:layout_marginLeft="10dp"
                         android:text="4000000"
                         android:textColor="@color/black"
-                        android:textSize="16dp"
+                        android:textSize="14dp"
                         />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:background="@color/base_color_text_white"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/totalcount"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"/>
+
+                    <TextView
+                        android:id="@+id/tv_totalcount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -85,7 +108,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/appreciate"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
 
                     <TextView
                         android:id="@+id/tv_appreciate"
@@ -93,7 +116,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
                 </LinearLayout>
             </RelativeLayout>
 
@@ -106,6 +129,7 @@
                 android:gravity="center"
                 android:orientation="horizontal">
 
+
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -117,17 +141,17 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/totalcount"
+                        android:text="@string/maxwin"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
 
                     <TextView
-                        android:id="@+id/tv_totalcount"
+                        android:id="@+id/tv_wintotal"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -143,7 +167,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/maxloser"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
 
                     <TextView
                         android:id="@+id/tv_maxloser"
@@ -151,7 +175,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:textColor="@color/black"
-                        android:textSize="16dp"/>
+                        android:textSize="14dp"/>
                 </LinearLayout>
             </RelativeLayout>
 

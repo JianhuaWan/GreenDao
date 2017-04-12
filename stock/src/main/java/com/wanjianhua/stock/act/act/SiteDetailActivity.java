@@ -26,7 +26,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
     private TextView tv_levelchild, tv_waveband;
     private SiteInfo siteInfo;
     private TextView name;
-    private TextView tv_totalprice, tv_appreciate, tv_totalcount, tv_maxloser;
+    private TextView tv_totalprice, tv_appreciate, tv_totalcount, tv_maxloser, tv_wintotal;
     private ImageView img_back;
     private int totalprice;
     private float price;//原始价格
@@ -43,15 +43,26 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
         getIntentData();
         initView();
         setView();
-        setLoser();
+        setLoserandWin();
     }
 
-    private void setLoser() {
+    private void setLoserandWin() {
         tv_maxloser.setText(win3_2 + "元");
+        tv_wintotal.setText(win3_3 + "元");
     }
 
     private void setView() {
-        tv_totalprice.setText(siteInfo.getTotalprice());
+        String overprice = "";
+        Float temp = Float.parseFloat(siteInfo.getTotalprice()) / 10000;
+        if ((temp + "").contains(".")) {
+            String[] tempprice = (temp + "").split("\\.");
+            if (tempprice[1].startsWith("0")) {
+                overprice = tempprice[0];
+            } else {
+                overprice = temp + "";
+            }
+        }
+        tv_totalprice.setText(overprice + "W");
         tv_appreciate.setText("30%");
         name.setText(siteInfo.getName() + "(" + siteInfo.getCode() + ")");
         String tem = ((int) (totalprice / price)) + "";
@@ -71,6 +82,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
     private LinearLayout linear_top;
 
     private void initView() {
+        tv_wintotal = (TextView) findViewById(R.id.tv_wintotal);
         name = (TextView) findViewById(R.id.name);
         img_back = (ImageView) findViewById(R.id.img_back);
         img_back.setOnClickListener(this);
