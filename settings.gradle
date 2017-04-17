@@ -1,5 +1,7 @@
-include ':TuSDK', ':sMSSDK', ':MPChartLib', ':uSchat', ':mockpanda'
+include ':stock', ':catrecoder', ':appbyflynn', ':rxjava+mvp+retrofit+dagger2'
+//':TuSDK', ':sMSSDK', ':MPChartLib', ':uSchat',
+//':stock'
 //':mvp_rxjava_retrofit'
-//':testplugin',
+//':testplugin', ':mockpanda',
 
 

@@ -9,11 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MPChartLib" />
-            <option value="$PROJECT_DIR$/TuSDK" />
-            <option value="$PROJECT_DIR$/mockpanda" />
-            <option value="$PROJECT_DIR$/sMSSDK" />
-            <option value="$PROJECT_DIR$/uSchat" />
+            <option value="$PROJECT_DIR$/appbyflynn" />
+            <option value="$PROJECT_DIR$/catrecoder" />
+            <option value="$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2" />
+            <option value="$PROJECT_DIR$/stock" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

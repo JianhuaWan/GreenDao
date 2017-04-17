@@ -1,15 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            storeFile file('src/MyApp.keystore')
-            keyAlias 'jianhua@keji.com'
-            keyPassword '2782337'
-            storePassword '2782337'
-        }
-    }
-
     compileSdkVersion 22
     buildToolsVersion '25.0.0'
     defaultConfig {

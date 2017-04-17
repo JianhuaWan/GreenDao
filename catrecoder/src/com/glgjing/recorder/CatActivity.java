@@ -17,12 +17,12 @@ import android.os.Message;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.text.format.DateFormat;
 import android.util.DisplayMetrics;
 import android.view.Display;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.BufferedOutputStream;
@@ -45,6 +45,8 @@ public class CatActivity extends AppCompatActivity implements View.OnClickListen
     private EditText timedelay;
     private Myhandle handle;
 
+    private Button button;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,20 +54,17 @@ public class CatActivity extends AppCompatActivity implements View.OnClickListen
         setContentView(R.layout.cat_main);
         initView();
         handle = new Myhandle();
-        if (ContextCompat.checkSelfPermission(CatActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE)
-                != PackageManager.PERMISSION_GRANTED) {
-            ActivityCompat.requestPermissions(this,
-                    new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, STORAGE_REQUEST_CODE);
+        if (ContextCompat.checkSelfPermission(CatActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, STORAGE_REQUEST_CODE);
         }
 
-        if (ContextCompat.checkSelfPermission(CatActivity.this, Manifest.permission.RECORD_AUDIO)
-                != PackageManager.PERMISSION_GRANTED) {
-            ActivityCompat.requestPermissions(this,
-                    new String[]{Manifest.permission.RECORD_AUDIO}, AUDIO_REQUEST_CODE);
+        if (ContextCompat.checkSelfPermission(CatActivity.this, Manifest.permission.RECORD_AUDIO) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.RECORD_AUDIO}, AUDIO_REQUEST_CODE);
         }
 
         Intent intent = new Intent(this, RecordService.class);
         bindService(intent, connection, BIND_AUTO_CREATE);
+
     }
 
     private ServiceConnection connection = new ServiceConnection() {
@@ -91,9 +90,18 @@ public class CatActivity extends AppCompatActivity implements View.OnClickListen
         recoder.setEnabled(false);
         recoder.setOnClickListener(this);
         time = (EditText) findViewById(R.id.time);
+        button = (Button) findViewById(R.id.button);
+        new TimeThread().start();
+    }
+
+    int sjd = 0;
+
+    public void update() {
+        button.setText("启动截屏 " + sjd++);
     }
 
     public void dianji(View view) {
+
         timercat.schedule(new TimerTask() {
             public void run() {
                 try {
@@ -241,4 +249,39 @@ public class CatActivity extends AppCompatActivity implements View.OnClickListen
             }
         }
     }
+
+    private static final int msgKey1 = 1;
+
+    public class TimeThread extends Thread {
+        @Override
+        public void run() {
+            do {
+                try {
+                    Thread.sleep(1000);
+                    Message msg = new Message();
+                    msg.what = msgKey1;
+                    mHandler.sendMessage(msg);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            } while (true);
+        }
+    }
+
+    private Handler mHandler = new Handler() {
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            switch (msg.what) {
+                case msgKey1:
+                    long sysTime = System.currentTimeMillis();
+                    CharSequence sysTimeStr = DateFormat.format("hh:mm:ss", sysTime);
+                    update();
+                    break;
+
+                default:
+                    break;
+            }
+        }
+    };
 }
