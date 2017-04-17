@@ -1,4 +1,4 @@
-package com.example.rxandroidbywjh;
+package com.example.rxjavamvpretrofitdagger2;
 
 import org.junit.Test;
 
