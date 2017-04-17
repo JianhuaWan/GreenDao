@@ -1,49 +1,64 @@
 package com.example.rxjavamvpretrofitdagger2.view;
 
-import android.app.ProgressDialog;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.example.rxjavamvpretrofitdagger2.R;
 import com.example.rxjavamvpretrofitdagger2.base.BaseActivity;
+import com.example.rxjavamvpretrofitdagger2.bus.RefreshMessage;
+import com.example.rxjavamvpretrofitdagger2.bus.RxBus;
 import com.example.rxjavamvpretrofitdagger2.presenter.UserPresenter;
 
-public class MainActivity extends BaseActivity implements IUserView, View.OnClickListener {
+import butterknife.Bind;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
+import rx.Subscription;
+import rx.functions.Action1;
+
+
+public class MainActivity extends BaseActivity implements IUserView {
     UserPresenter presenter;
-    EditText id, username, pwd;
-    Button save, load, testRetrofit;
+    @Bind(R.id.id)
+    EditText id;
+    @Bind(R.id.username)
+    EditText username;
+    @Bind(R.id.pwd)
+    EditText pwd;
+    @Bind(R.id.save)
+    Button save;
+    @Bind(R.id.load)
+    Button load;
+    @Bind(R.id.testRetrofit)
+    Button testRetrofit;
+    Subscription rxbus;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        initParams();
-        initView();
-
+        initPresenter();
+        lisenterBus();
     }
 
-    private void initParams() {
+    private void lisenterBus() {
+        rxbus = RxBus.getInstance().toObserverable(RefreshMessage.class)
+                .subscribe(new Action1<RefreshMessage>() {
+                    @Override
+                    public void call(RefreshMessage refreshMessage) {
+                        Toast.makeText(MainActivity.this, refreshMessage.getName() + refreshMessage.getId(), Toast.LENGTH_LONG).show();
+                    }
+                });
+    }
+
+    private void initPresenter() {
         presenter = new UserPresenter(this);
     }
-
-    private void initView() {
-        id = (EditText) findViewById(R.id.id);
-        username = (EditText) findViewById(R.id.username);
-        pwd = (EditText) findViewById(R.id.pwd);
-        save = (Button) findViewById(R.id.save);
-        load = (Button) findViewById(R.id.load);
-        testRetrofit = (Button) findViewById(R.id.testRetrofit);
-        save.setOnClickListener(this);
-        load.setOnClickListener(this);
-        testRetrofit.setOnClickListener(this);
-
-    }
-
 
     @Override
     public int getID() {
@@ -71,9 +86,9 @@ public class MainActivity extends BaseActivity implements IUserView, View.OnClic
     }
 
 
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()) {
+    @OnClick({R.id.save, R.id.load, R.id.testRetrofit})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
             case R.id.save:
                 presenter.saveUser(getID(), getUserName(), getPwd());
                 presenter.loading(MainActivity.this);
@@ -87,5 +102,13 @@ public class MainActivity extends BaseActivity implements IUserView, View.OnClic
                 startActivity(intent);
                 break;
         }
+    }
+
+    @Override
+    protected void onDestroy() {
+        if (!rxbus.isUnsubscribed()) {
+            rxbus.unsubscribe();
+        }
+        super.onDestroy();
     }
 }

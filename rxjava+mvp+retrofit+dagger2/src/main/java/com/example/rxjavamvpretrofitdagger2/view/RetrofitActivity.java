@@ -4,15 +4,19 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import android.view.View;
-import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.rxjavamvpretrofitdagger2.R;
 import com.example.rxjavamvpretrofitdagger2.base.BaseActivity;
 import com.example.rxjavamvpretrofitdagger2.bean.MovieBean;
+import com.example.rxjavamvpretrofitdagger2.bus.RefreshMessage;
+import com.example.rxjavamvpretrofitdagger2.bus.RxBus;
 import com.example.rxjavamvpretrofitdagger2.service.BaseUrl;
 
+import butterknife.Bind;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
 import rx.Subscriber;
 
 
@@ -20,36 +24,21 @@ import rx.Subscriber;
  * Created by wanjianhua on 2017/4/17.
  */
 
-public class RetrofitActivity extends BaseActivity implements OnClickListener {
-    private Button retrofit, retrofitrx;
+public class RetrofitActivity extends BaseActivity {
+    @Bind(R.id.retrofit)
+    Button retrofit;
+    @Bind(R.id.retrofitrx)
+    Button retrofitrx;
+    @Bind(R.id.rxbus)
+    Button rxbus;
     private Subscriber<MovieBean> subscriber;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.retrofit_main);
-        initView();
     }
 
-    private void initView() {
-        retrofit = (Button) findViewById(R.id.retrofit);
-        retrofit.setOnClickListener(this);
-        retrofitrx = (Button) findViewById(R.id.retrofitrx);
-        retrofitrx.setOnClickListener(this);
-    }
-
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.retrofit:
-                break;
-            case R.id.retrofitrx:
-                getMovieByRx();
-                break;
-            default:
-                break;
-        }
-    }
 
     private void getMovieByRx() {
         subscriber = new Subscriber<MovieBean>() {
@@ -70,6 +59,20 @@ public class RetrofitActivity extends BaseActivity implements OnClickListener {
             }
         };
         BaseUrl.getInstance().getTopMovie(subscriber, 0, 10);
+    }
+
+    @OnClick({R.id.retrofit, R.id.retrofitrx, R.id.rxbus})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.retrofit:
+                break;
+            case R.id.retrofitrx:
+                getMovieByRx();
+                break;
+            case R.id.rxbus:
+                RxBus.getInstance().post(new RefreshMessage("mingzi", "333"));
+                break;
+        }
     }
 
 }

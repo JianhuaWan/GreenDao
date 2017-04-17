@@ -2,11 +2,7 @@ package com.example.rxjavamvpretrofitdagger2.base;
 
 import android.app.Application;
 
-import com.example.rxjavamvpretrofitdagger2.service.BaseUrl;
-
-import retrofit2.Retrofit;
-import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
-import retrofit2.converter.gson.GsonConverterFactory;
+import butterknife.ButterKnife;
 
 /**
  * Created by wanjianhua on 2017/4/17.
