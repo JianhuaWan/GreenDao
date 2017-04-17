@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenDao.iml" filepath="$PROJECT_DIR$/GreenDao.iml" />
       <module fileurl="file://$PROJECT_DIR$/appbyflynn/appbyflynn.iml" filepath="$PROJECT_DIR$/appbyflynn/appbyflynn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appbyflynn/appbyflynn.iml" filepath="$PROJECT_DIR$/appbyflynn/appbyflynn.iml" />
       <module fileurl="file://$PROJECT_DIR$/catrecoder/catrecoder.iml" filepath="$PROJECT_DIR$/catrecoder/catrecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catrecoder/catrecoder.iml" filepath="$PROJECT_DIR$/catrecoder/catrecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" filepath="$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" filepath="$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/stock/stock.iml" filepath="$PROJECT_DIR$/stock/stock.iml" />
     </modules>
