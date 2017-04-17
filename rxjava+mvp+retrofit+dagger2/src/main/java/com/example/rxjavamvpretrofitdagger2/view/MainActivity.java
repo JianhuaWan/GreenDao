@@ -1,6 +1,7 @@
 package com.example.rxjavamvpretrofitdagger2.view;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -8,12 +9,13 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.example.rxjavamvpretrofitdagger2.R;
+import com.example.rxjavamvpretrofitdagger2.base.BaseActivity;
 import com.example.rxjavamvpretrofitdagger2.presenter.UserPresenter;
 
-public class MainActivity extends AppCompatActivity implements IUserView, View.OnClickListener {
+public class MainActivity extends BaseActivity implements IUserView, View.OnClickListener {
     UserPresenter presenter;
     EditText id, username, pwd;
-    Button save, load;
+    Button save, load, testRetrofit;
 
 
     @Override
@@ -35,8 +37,11 @@ public class MainActivity extends AppCompatActivity implements IUserView, View.O
         pwd = (EditText) findViewById(R.id.pwd);
         save = (Button) findViewById(R.id.save);
         load = (Button) findViewById(R.id.load);
+        testRetrofit = (Button) findViewById(R.id.testRetrofit);
         save.setOnClickListener(this);
         load.setOnClickListener(this);
+        testRetrofit.setOnClickListener(this);
+
     }
 
 
@@ -75,6 +80,11 @@ public class MainActivity extends AppCompatActivity implements IUserView, View.O
                 break;
             case R.id.load:
                 presenter.loadUser(getID());
+                break;
+            case R.id.testRetrofit:
+                Intent intent = new Intent();
+                intent.setClass(MainActivity.this, RetrofitActivity.class);
+                startActivity(intent);
                 break;
         }
     }
