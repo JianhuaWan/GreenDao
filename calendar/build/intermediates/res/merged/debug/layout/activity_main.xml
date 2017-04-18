@@ -1,0 +1,440 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:textcircle="http://schemas.android.com/apk/res/com.example.calendar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/action_bar_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/show_month_view"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dip"
+            android:layout_marginRight="10dip"
+            android:gravity="center"
+            android:text="7月"
+            android:textColor="#fffffe"
+            android:textSize="24sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_toRightOf="@id/show_month_view"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/show_week_view"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="bottom|left"
+                android:paddingBottom="1dip"
+                android:text="周三"
+                android:textColor="#80ffffff"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/show_year_view"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="top|left"
+                android:paddingTop="1dip"
+                android:text="2014"
+                android:textColor="#80ffffff"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="80dip"
+            android:layout_height="25dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dip"
+            android:background="@drawable/select_view_bg"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/month_calendar_button"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:clickable="@drawable/press_left_text_bg"
+                android:gravity="center"
+                android:text="月"
+                android:textColor="#ffffff" />
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="fill_parent"
+                android:background="#80ffffff"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/week_calendar_button"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:clickable="@drawable/press_right_text_bg"
+                android:gravity="center"
+                android:text="周"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#fffffe"
+        android:orientation="vertical"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="#20000000" >
+        </View>
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="20dip"
+            android:layout_marginBottom="2dip"
+            android:layout_marginTop="2dip" >
+
+            <TableRow>
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="日"
+                    android:textColor="@color/date_1" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="一"
+                    android:textColor="@color/date_2" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="二"
+                    android:textColor="@color/date_2" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="三"
+                    android:textColor="@color/date_2" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="四"
+                    android:textColor="@color/date_2" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="五"
+                    android:textColor="@color/date_2" />
+
+                <TextView
+                    style="@style/dateStyle"
+                    android:text="六"
+                    android:textColor="@color/date_1" />
+            </TableRow>
+        </TableLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="#20000000" >
+        </View>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/contentPager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="#fffffe" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#F7F7F7"
+            android:paddingLeft="15dip"
+            android:paddingRight="10dip" >
+        </android.support.v4.view.ViewPager>
+
+        <SlidingDrawer
+            android:id="@+id/sildingDrawer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/viewpager"
+            android:content="@+id/contentText"
+            android:handle="@+id/handlerText"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/handlerText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#fffffe"
+                android:minHeight="40dip"
+                android:orientation="vertical" >
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="#30000000" >
+                </View>
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dip"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dip"
+                    android:text="今日无日程安排"
+                    android:textColor="#90000000"
+                    android:textSize="16sp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="#20000000" >
+                </View>
+            </LinearLayout>
+
+            <ScrollView
+                android:id="@+id/contentText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#fffffe" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsd" />
+                </LinearLayout>
+            </ScrollView>
+        </SlidingDrawer>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dip"
+        android:background="@drawable/bottom_bar_bg"
+        android:visibility="gone" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="#20000000" >
+        </View>
+
+        <com.example.calendar.widget.CircleTextView
+            android:id="@+id/now_circle_view"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            textcircle:text="今" />
+
+        <com.example.calendar.widget.CircleTextView
+            android:id="@+id/subscibe_circle_view"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_centerInParent="true"
+            android:layout_toLeftOf="@id/now_circle_view"
+            textcircle:text="订" />
+
+        <com.example.calendar.widget.CircleTextView
+            android:id="@+id/add_circle_view"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@id/now_circle_view"
+            textcircle:text="＋" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\select_view_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\select_view_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_bottom_corner_no_top_line.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\shape_bottom_corner_no_top_line.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_no_corner_without_bottom.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\shape_no_corner_without_bottom.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_top_corner_no_bottom_line.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\shape_top_corner_no_bottom_line.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_bar_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\bottom_bar_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\action_bar_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\action_bar_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\press_right_text_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\press_right_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable\\press_left_text_bg.xml",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable\\press_left_text_bg.xml"
+    }
+]

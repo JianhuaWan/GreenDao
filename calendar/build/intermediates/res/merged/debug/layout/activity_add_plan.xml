@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+    >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:background="@drawable/action_bar_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/cancel_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="12dip"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="#90fffffe"
+            android:textSize="16sp" />
+
+        <TextView
+             android:id="@+id/confirm_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="12dip"
+            android:gravity="center"
+            android:text="确定"
+            android:textColor="#90fffffe"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="日历"
+            android:textColor="#fffffe"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#fffffe"
+        android:orientation="vertical" >
+        <EditText 
+             android:id="@+id/plan_content_tv"
+             android:layout_width="fill_parent"
+       		 android:layout_height="52dip"
+       		 android:layout_marginTop="12dip"
+       		 android:layout_marginLeft="12dip"
+       		 android:layout_marginRight="12dip"
+       		 android:textSize="16sp"
+       		 android:paddingLeft="8dip"
+       		 android:gravity="center_vertical"
+       		 android:background="@drawable/edit_text_bg"
+       		 android:hint="活动提醒内容"
+            />
+        <RelativeLayout 
+            android:layout_width="fill_parent"
+       		android:layout_height="52dip" 
+       		android:layout_marginTop="16dip"
+       		android:layout_marginLeft="12dip"
+       		android:layout_marginRight="12dip"
+       		android:background="@drawable/shape_top_corner_no_bottom_line"
+            >
+           <TextView 
+               android:layout_width="wrap_content"
+               android:layout_height="fill_parent"
+               android:layout_alignParentLeft="true"
+               android:layout_marginLeft="8dip"
+               android:textSize="16sp"
+               android:text="全天事件"
+               android:gravity="center"
+               android:textColor="#cc000000"
+               />
+           <com.example.calendar.widget.SwitchButton
+               android:id="@+id/checkbox"  
+    			android:layout_width="wrap_content"  
+    			android:layout_height="wrap_content"  
+    			android:layout_alignParentRight="true"
+    			android:layout_centerVertical="true"
+    			android:layout_gravity="right|center"
+    			android:layout_marginRight="8dip"
+               />
+        </RelativeLayout>
+        <RelativeLayout 
+            android:layout_width="fill_parent"
+       		android:layout_height="52dip" 
+       		android:layout_marginLeft="12dip"
+       		android:layout_marginRight="12dip"
+       		android:background="@drawable/shape_no_corner_without_bottom"
+            >
+           <TextView 
+               
+               android:layout_width="wrap_content"
+               android:layout_height="fill_parent"
+               android:layout_alignParentLeft="true"
+               android:layout_marginLeft="8dip"
+               android:textSize="16sp"
+               android:text="开始事件"
+               android:gravity="center"
+               android:textColor="#cc000000"
+               />
+           <TextView 
+                android:id="@+id/start_plan_time_tv"
+               android:layout_width="wrap_content"
+               android:layout_height="fill_parent"
+               android:layout_alignParentRight="true"
+               android:layout_marginRight="8dip"
+               android:textSize="14sp"
+               android:text="2014-8-5周二 17:30"
+               android:gravity="center"
+               android:textColor="#80000000"
+               />
+        </RelativeLayout>
+        
+         <RelativeLayout 
+            android:layout_width="fill_parent"
+       		android:layout_height="52dip" 
+       		android:layout_marginLeft="12dip"
+       		android:layout_marginRight="12dip"
+       		android:background="@drawable/shape_bottom_corner_no_top_line"
+            >
+           <TextView 
+              
+               android:layout_width="wrap_content"
+               android:layout_height="fill_parent"
+               android:layout_alignParentLeft="true"
+               android:layout_marginLeft="8dip"
+               android:textSize="16sp"
+               android:text="结束事件"
+               android:gravity="center"
+               android:textColor="#cc000000"
+               />
+           <TextView 
+               android:id="@+id/end_plan_time_tv"
+               android:layout_width="wrap_content"
+               android:layout_height="fill_parent"
+               android:layout_alignParentRight="true"
+               android:layout_marginRight="8dip"
+               android:textSize="14sp"
+               android:text="2014-8-5周二 18:30"
+               android:gravity="center"
+               android:textColor="#80000000"
+               />
+        </RelativeLayout>
+        <TextView  
+             android:layout_width="fill_parent"
+               android:layout_height="40dip"
+               android:layout_marginLeft="12dip"
+                android:layout_marginRight="12dip"
+                android:layout_marginTop="24dip"
+               android:textSize="16sp"
+               android:text="更多选项"
+               android:background="@drawable/edit_text_bg"
+               android:gravity="center"
+               android:textColor="#cc000000"
+            />
+    </LinearLayout>
+</LinearLayout>
+<RelativeLayout
+    android:id="@+id/dialog_show_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#80000000"
+    android:visibility="gone"
+    
+    >
+    <include layout="@layout/comp_dialog_layout" />
+</RelativeLayout>
+    
+</FrameLayout>

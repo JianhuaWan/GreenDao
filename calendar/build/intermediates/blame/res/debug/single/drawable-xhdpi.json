@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_pressed.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bottom.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\bottom.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mask.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\mask.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\frame.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\frame.png"
+    },
+    {
+        "merged": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_unpressed.png",
+        "source": "D:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\src\\main\\res\\drawable-xhdpi\\btn_unpressed.png"
+    }
+]
