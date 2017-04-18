@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="22332035880695"
+    timestamp="22772759939116"
     token="-8828463687871087251"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1234" />
+        duration="6856" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="515" />
+        duration="457" />
     <task
         name="verifier"
-        duration="39" />
+        duration="61" />
 
     <artifact
         location="D:\Users\wanjianhua.DONGZHOU\AndroidStudioProjects\GreenDao\calendar\build\outputs\apk\calendar-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="22332035880695"
+        timestamp="22772759939116"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Users\wanjianhua.DONGZHOU\AndroidStudioProjects\GreenDao\calendar\build\outputs\apk\calendar-debug.apk"

@@ -1,0 +1,7 @@
+#Tue Apr 18 15:07:03 CST 2017
+base.0=D\:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7665b6702a9c8014dd4d2608ddca5dc64f2c41cf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3401a9dff3d702faddca9371001de4e909a22978\\classes.dex
+base.1=D\:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3401a9dff3d702faddca9371001de4e909a22978
+file.0=D\:\\Users\\wanjianhua.DONGZHOU\\AndroidStudioProjects\\GreenDao\\calendar\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7665b6702a9c8014dd4d2608ddca5dc64f2c41cf\\classes.dex
