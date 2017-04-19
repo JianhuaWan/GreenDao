@@ -65,6 +65,8 @@ public class RetrofitActivity extends BaseActivity {
     public void onViewClicked(View view) {
         switch (view.getId()) {
             case R.id.retrofit:
+                //图片
+                uplaodPhoto();
                 break;
             case R.id.retrofitrx:
                 getMovieByRx();
@@ -73,6 +75,27 @@ public class RetrofitActivity extends BaseActivity {
                 RxBus.getInstance().post(new RefreshMessage("mingzi", "333"));
                 break;
         }
+    }
+
+    private void uplaodPhoto() {
+        subscriber = new Subscriber<MovieBean>() {
+            @Override
+            public void onCompleted() {
+                Toast.makeText(RetrofitActivity.this, "Get Top Movie Completed", Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onError(Throwable e) {
+                //subscriber.unsubscribe();//取消一个网络请求
+                Toast.makeText(RetrofitActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onNext(MovieBean movieBean) {
+                Log.e("content", movieBean.getTitle());
+            }
+        };
+        BaseUrl.getInstance().getTopMovie(subscriber, 0, 10);
     }
 
 }

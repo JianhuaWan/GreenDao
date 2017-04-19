@@ -18,7 +18,7 @@ import rx.schedulers.Schedulers;
  */
 
 public class BaseUrl {
-    public static final String baseUrl = "https://api.douban.com/v2/movie/";
+    public static final String baseUrl = "https://api.douban.com/";
     private static final int DEFAULT_TIMEOUT = 5;
     private Retrofit retrofit;
     private MovieService movieService;
