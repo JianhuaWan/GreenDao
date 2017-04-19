@@ -16,6 +16,8 @@ import com.wanjianhua.stock.R;
 import com.wanjianhua.stock.act.base.BaseActivity;
 import com.wanjianhua.stock.act.bean.SiteInfo;
 import com.wanjianhua.stock.act.utils.MicroRecruitSettings;
+import com.wanjianhua.stock.act.utils.RefreshMessage;
+import com.wanjianhua.stock.act.utils.RxBus;
 
 import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.SaveListener;
@@ -84,6 +86,7 @@ public class AddSiteActivity extends BaseActivity implements View.OnClickListene
                             @Override
                             public void done(String s, BmobException e) {
                                 if (e == null) {
+                                    RxBus.getInstance().post(new RefreshMessage());
                                     Toast.makeText(AddSiteActivity.this, getString(R.string.savepass), Toast.LENGTH_LONG).show();
                                     tv_name.setText("");
                                     tv_code.setText("");

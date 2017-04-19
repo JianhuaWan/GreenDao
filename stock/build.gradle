@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.0"
     defaultConfig {
         applicationId "com.wanjianhua.stock"
-        minSdkVersion 15
+        minSdkVersion 21
         targetSdkVersion 23
         versionCode 7
         versionName "V2.2.8"
@@ -24,7 +24,7 @@ android {
             jniLibs.srcDirs = ['libs']
         }
     }
-    lintOptions{
+    lintOptions {
         abortOnError false
     }
 }
@@ -36,5 +36,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.3.0'
     testCompile 'junit:junit:4.12'
+    compile 'com.android.support:design:25.0.0'
     compile 'com.github.ctiao:DanmakuFlameMaster:0.7.3'
 }

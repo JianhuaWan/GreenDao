@@ -23,6 +23,8 @@ import com.wanjianhua.stock.act.bean.SiteInfo;
 import com.wanjianhua.stock.act.utils.ActionSheetDialog;
 import com.wanjianhua.stock.act.utils.MicroRecruitSettings;
 import com.wanjianhua.stock.act.utils.NetUtils;
+import com.wanjianhua.stock.act.utils.RefreshMessage;
+import com.wanjianhua.stock.act.utils.RxBus;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,6 +33,8 @@ import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.FindListener;
 import cn.bmob.v3.listener.UpdateListener;
+import rx.Subscription;
+import rx.functions.Action1;
 
 /**
  * Created by wanjianhua on 2017/4/5.
@@ -45,7 +49,7 @@ public class SiteFragment extends Fragment {
     private SwipeRefreshLayout swipe;
     private MicroRecruitSettings settings;
     private boolean isexute = true;
-
+    Subscription rxbus;
 
     @Nullable
     @Override
@@ -58,6 +62,14 @@ public class SiteFragment extends Fragment {
     }
 
     private void setLisenr() {
+        rxbus = RxBus.getInstance().toObserverable(RefreshMessage.class)
+                .subscribe(new Action1<RefreshMessage>() {
+                    @Override
+                    public void call(RefreshMessage refreshMessage) {
+                        loadate();
+                    }
+                });
+
         list_info.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
             @Override
             public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
