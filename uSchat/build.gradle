@@ -1,6 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('src/MyApp.keystore')
+            keyAlias 'jianhua@keji.com'
+            keyPassword '2782337'
+            storePassword '2782337'
+        }
+    }
+
     compileSdkVersion 22
     buildToolsVersion '25.0.0'
     defaultConfig {
@@ -15,6 +24,7 @@ android {
     }
     buildTypes {
         release {
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             //自动删除 unaligned .apks
@@ -30,16 +40,13 @@ android {
                     }
                 }
             }
-            signingConfig signingConfigs.config
-            zipAlignEnabled true
         }
     }
     productFlavors {
     }
     dexOptions {
-        incremental false
         preDexLibraries = false
-        jumboMode = true
+        javaMaxHeapSize "12g"
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
@@ -54,7 +61,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:22.2.0'
     compile project(':sMSSDK')
     compile project(':TuSDK')
-    compile project(':MPChartLib')
     compile files('libs/nineoldandroids-2.4.0.jar')
     compile files('libs/ottolib.jar')
     compile files('libs/robotium-solo-5.3.0.jar')
