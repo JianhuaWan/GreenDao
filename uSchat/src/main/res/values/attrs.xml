@@ -1,111 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="ActionBar">
-		<attr name="title" format="string" localization="suggested" /> 
+        <attr name="title" format="string" localization="suggested"/>
     </declare-styleable>
-    <attr name="auto_play" forMymat="boolean" />
+    <attr name="auto_play" forMymat="boolean"/>
 
     <declare-styleable name="SlidingSwitcherView">
-        <attr name="auto_play" />
+        <attr name="auto_play"/>
     </declare-styleable>
     <declare-styleable name="roundedimageview">
-        <attr name="border_thickness" format="dimension" />
-        <attr name="border_inside_color" format="color" />
+        <attr name="border_thickness" format="dimension"/>
+        <attr name="border_inside_color" format="color"/>
         <attr name="border_outside_color" format="color"></attr>
     </declare-styleable>
     <declare-styleable name="ActionSheets">
-        <attr name="actionSheetStyle" format="reference" />
+        <attr name="actionSheetStyle" format="reference"/>
     </declare-styleable>
     <declare-styleable name="ActionSheet">
-        <attr name="actionSheetBackground" format="color|reference" />
-        <attr name="cancelButtonBackground" format="color|reference" />
-        <attr name="otherButtonTopBackground" format="color|reference" />
-        <attr name="otherButtonMiddleBackground" format="color|reference" />
-        <attr name="otherButtonBottomBackground" format="color|reference" />
-        <attr name="otherButtonSingleBackground" format="color|reference" />
-        <attr name="cancelButtonTextColor" format="color|reference" />
-        <attr name="otherButtonTextColor" format="color|reference" />
-        <attr name="actionSheetPadding" format="dimension|reference" />
-        <attr name="otherButtonSpacing" format="dimension|reference" />
-        <attr name="cancelButtonMarginTop" format="dimension|reference" />
-        <attr name="actionSheetTextSize" format="dimension|reference" />
+        <attr name="actionSheetBackground" format="color|reference"/>
+        <attr name="cancelButtonBackground" format="color|reference"/>
+        <attr name="otherButtonTopBackground" format="color|reference"/>
+        <attr name="otherButtonMiddleBackground" format="color|reference"/>
+        <attr name="otherButtonBottomBackground" format="color|reference"/>
+        <attr name="otherButtonSingleBackground" format="color|reference"/>
+        <attr name="cancelButtonTextColor" format="color|reference"/>
+        <attr name="otherButtonTextColor" format="color|reference"/>
+        <attr name="actionSheetPadding" format="dimension|reference"/>
+        <attr name="otherButtonSpacing" format="dimension|reference"/>
+        <attr name="cancelButtonMarginTop" format="dimension|reference"/>
+        <attr name="actionSheetTextSize" format="dimension|reference"/>
     </declare-styleable>
     <declare-styleable name="SlidingUpPanelLayout">
-        <attr name="panelHeight" format="dimension" />
-        <attr name="shadowHeight" format="dimension" />
-        <attr name="paralaxOffset" format="dimension" />
-        <attr name="fadeColor" format="color" />
-        <attr name="flingVelocity" format="integer" />
-        <attr name="dragView" format="reference" />
-        <attr name="overlay" format="boolean" />
-        <attr name="anchorPoint" format="float" />
+        <attr name="panelHeight" format="dimension"/>
+        <attr name="shadowHeight" format="dimension"/>
+        <attr name="paralaxOffset" format="dimension"/>
+        <attr name="fadeColor" format="color"/>
+        <attr name="flingVelocity" format="integer"/>
+        <attr name="dragView" format="reference"/>
+        <attr name="overlay" format="boolean"/>
+        <attr name="anchorPoint" format="float"/>
         <attr name="initialState" format="enum">
-            <enum name="expanded" value="0" />
-            <enum name="collapsed" value="1" />
-            <enum name="anchored" value="2" />
-            <enum name="hidden" value="3" />
+            <enum name="expanded" value="0"/>
+            <enum name="collapsed" value="1"/>
+            <enum name="anchored" value="2"/>
+            <enum name="hidden" value="3"/>
         </attr>
     </declare-styleable>
     <declare-styleable name="CircleImageView">
-        <attr name="border_width" format="dimension" />
-        <attr name="border_color" format="color" />
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+        <attr name="civ_border_width" format="dimension"/>
+        <attr name="civ_border_color" format="color"/>
+        <attr name="civ_border_overlay" format="boolean"/>
+        <attr name="civ_fill_color" format="color"/>
     </declare-styleable>
-<declare-styleable name="PullToRefresh">
+    <declare-styleable name="PullToRefresh">
 
         <!-- A drawable to use as the background of the Refreshable View -->
-        <attr name="ptrRefreshableViewBackground" format="reference|color" />
+        <attr name="ptrRefreshableViewBackground" format="reference|color"/>
 
         <!-- A drawable to use as the background of the Header and Footer Loading Views -->
-        <attr name="ptrHeaderBackground" format="reference|color" />
+        <attr name="ptrHeaderBackground" format="reference|color"/>
 
         <!-- Text Color of the Header and Footer Loading Views -->
-        <attr name="ptrHeaderTextColor" format="reference|color" />
+        <attr name="ptrHeaderTextColor" format="reference|color"/>
 
         <!-- Text Color of the Header and Footer Loading Views Sub Header -->
-        <attr name="ptrHeaderSubTextColor" format="reference|color" />
+        <attr name="ptrHeaderSubTextColor" format="reference|color"/>
 
         <!-- Mode of Pull-to-Refresh that should be used -->
         <attr name="ptrMode">
-            <flag name="disabled" value="0x0" />
-            <flag name="pullFromStart" value="0x1" />
-            <flag name="pullFromEnd" value="0x2" />
-            <flag name="both" value="0x3" />
-            <flag name="manualOnly" value="0x4" />
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
 
             <!-- These last two are depreacted -->
-            <flag name="pullDownFromTop" value="0x1" />
-            <flag name="pullUpFromBottom" value="0x2" />
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
         </attr>
 
         <!-- Whether the Indicator overlay(s) should be used -->
-        <attr name="ptrShowIndicator" format="reference|boolean" />
+        <attr name="ptrShowIndicator" format="reference|boolean"/>
 
         <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
-        <attr name="ptrDrawable" format="reference" />
+        <attr name="ptrDrawable" format="reference"/>
 
         <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
-        <attr name="ptrDrawableStart" format="reference" />
+        <attr name="ptrDrawableStart" format="reference"/>
 
         <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
-        <attr name="ptrDrawableEnd" format="reference" />
+        <attr name="ptrDrawableEnd" format="reference"/>
 
         <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
-        <attr name="ptrOverScroll" format="reference|boolean" />
+        <attr name="ptrOverScroll" format="reference|boolean"/>
 
         <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
-        <attr name="ptrHeaderTextAppearance" format="reference" />
+        <attr name="ptrHeaderTextAppearance" format="reference"/>
 
         <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
-        <attr name="ptrSubHeaderTextAppearance" format="reference" />
+        <attr name="ptrSubHeaderTextAppearance" format="reference"/>
 
         <!-- Style of Animation should be used displayed when pulling. -->
         <attr name="ptrAnimationStyle">
-            <flag name="rotate" value="0x0" />
-            <flag name="flip" value="0x1" />
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
         </attr>
 
         <!-- Whether the user can scroll while the View is Refreshing -->
-        <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+        <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean"/>
 
         <!--
         	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
@@ -120,7 +124,7 @@
 
 
         -->
-        <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+        <attr name="ptrListViewExtrasEnabled" format="reference|boolean"/>
 
         <!--
         	Whether the Drawable should be continually rotated as you pull. This only
@@ -134,12 +138,12 @@
 
 
         -->
-        <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+        <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean"/>
 
         <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
-        <attr name="ptrAdapterViewBackground" format="reference|color" />
-        <attr name="ptrDrawableTop" format="reference" />
-        <attr name="ptrDrawableBottom" format="reference" />
+        <attr name="ptrAdapterViewBackground" format="reference|color"/>
+        <attr name="ptrDrawableTop" format="reference"/>
+        <attr name="ptrDrawableBottom" format="reference"/>
     </declare-styleable>
     <declare-styleable name="SliderLayout">
 
@@ -184,8 +188,8 @@
         </attr>
 
         <attr name="shape" format="enum">
-            <enum value="0" name="oval"/>
-            <enum value="1" name="rect"/>
+            <enum name="oval" value="0"/>
+            <enum name="rect" value="1"/>
         </attr>
 
         <attr name="selected_color" format="color"/>
@@ -225,25 +229,24 @@
     </declare-styleable>
     <!-- 图片滚动展示 -->
     <declare-styleable name="ViewFlow">
-        <attr name="sidebuffer" format="integer" />
+        <attr name="sidebuffer" format="integer"/>
     </declare-styleable>
     <declare-styleable name="CircleFlowIndicator">
-        <attr name="activeColor" format="color" />
-        <attr name="inactiveColor" format="color" />
-        <attr name="m_radius" format="dimension" />
-        <attr name="m_centered" format="boolean" />
-        <attr name="fadeOut" format="integer" />
+        <attr name="activeColor" format="color"/>
+        <attr name="inactiveColor" format="color"/>
+        <attr name="m_radius" format="dimension"/>
+        <attr name="m_centered" format="boolean"/>
+        <attr name="fadeOut" format="integer"/>
         <attr name="inactiveType">
-            <flag name="stroke" value="0" />
-            <flag name="fill" value="1" />
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
         </attr>
         <attr name="activeType">
-            <flag name="stroke" value="0" />
-            <flag name="fill" value="1" />
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
         </attr>
-        <attr name="circleSeparation" format="dimension" />
-        <attr name="activeRadius" format="dimension" />
+        <attr name="circleSeparation" format="dimension"/>
+        <attr name="activeRadius" format="dimension"/>
     </declare-styleable>
-    
 
 </resources>

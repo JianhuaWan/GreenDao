@@ -30,8 +30,6 @@ import com.xiangyue.adpter.CircleAdapter;
 import com.xiangyue.base.MicroRecruitSettings;
 import com.xiangyue.bean.CircleBean;
 import com.xiangyue.bean.circlrmebgphpto;
-import com.xiangyue.pullrefresh.PullToRefreshBase;
-import com.xiangyue.pullrefresh.PullToRefreshListView;
 import com.xiangyue.view.ActionSheetDialog;
 import com.xiangyue.weight.LoginDialog;
 
@@ -382,7 +380,7 @@ public class CircleFragment extends android.support.v4.app.Fragment implements O
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                CircleBean circleBean = adapter.getItem(i - 2);
+                CircleBean circleBean = adapter.getItem(i - 1);
                 Intent intent = new Intent();
                 intent.putStringArrayListExtra("circlebean", (ArrayList<String>) circleBean.getPhotos());
                 intent.putExtra("title", circleBean.getContent());

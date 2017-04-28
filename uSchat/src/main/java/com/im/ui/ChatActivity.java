@@ -138,7 +138,6 @@ public class ChatActivity extends ParentWithNaviActivity implements ObseverListe
     @Bind(R.id.edittext_layout)
     RelativeLayout edittext_layout;
 
-
     @Override
     protected String title() {
         return c.getConversationTitle();

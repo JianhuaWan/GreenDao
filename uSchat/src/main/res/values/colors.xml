@@ -68,4 +68,50 @@
     <color name="popu">#323136</color>
     <color name="popu_press">#e0000000</color>
     <color name="nor_grey">#f8f8f8</color>
+    <color name="color_accent">#ffce3d3a</color>
+    <color name="color_primary">#fffdfdfd</color>
+    <color name="color_primary_dark">#ffd1d1d1</color>
+    <color name="window_background">#ffefefef</color>
+    <color name="appbar_shadow">#33000000</color>
+
+    <color name="tab_background">#fffdfdfd</color>
+    <color name="tab_normal_text_color">#ff666666</color>
+
+    <color name="primary_text_default_light">@android:color/white</color>
+    <color name="primary_text_default_dark"> #de000000</color>
+    <color name="primary_text_disabled_dark">#39000000</color>
+    <color name="secondary_text_default_dark">#8a000000</color>
+    <color name="secondary_text_disabled_dark">#66000000</color>
+    <color name="secondary_text_dark">#ff999999</color>
+
+    <color name="navigation_top_background">#ffe1e1e1</color>
+    <color name="navigation_background">#fffafafa</color>
+    <color name="navigation_text_color">#de000000</color>
+
+    <color name="image_preview_background">#e0000000</color>
+    <color name="image_preview_text_color">#ffdddddd</color>
+    <color name="image_preview_menu_text_color">#ffdddddd</color>
+
+    <color name="menu_pressed">#ffd2d2d2</color>
+    <color name="menu_normal">#fffdfdfd</color>
+    <color name="menu_icon">@color/color_accent</color>
+
+    <color name="skin_group_title">@color/secondary_text_disabled_dark</color>
+
+    <color name="line_color">#19000000</color>
+    <color name="list_item_disabled">#19000000</color>
+
+    <color name="fab_btn_background">@android:color/white</color>
+    <color name="card_title_background">#f7f9fb</color>
+    <color name="card_background">#ffffff</color>
+
+    <color name="view_attack_background">#5da3f6</color>
+    <color name="view_defense_background">#66d138</color>
+    <color name="view_magic_background">#e800a8</color>
+    <color name="view_difficulty_background">#e8a223</color>
+
+    <color name="setting_item_normal">#fffdfdfd</color>
+    <color name="setting_item_pressed">#55fdfdfd</color>
+
+    <color name="empty_view_content_text_color">#66000000</color>
 </resources>

@@ -41,6 +41,7 @@ public class BaseApplication extends TuSdkApplication {
     private static String apkurl;
     public static String[] TABLE_NAMES = null;
     public static String[] TABLE_GAMES = null;
+    public static final String META_DATA_APP_KEY = "app_key";
 
     public static String getApkurl() {
         return apkurl;
@@ -146,7 +147,7 @@ public class BaseApplication extends TuSdkApplication {
 //        Tencent.createInstance("tencent222222", this.getApplicationContext());
         //TABLE_NAMES
         TABLE_NAMES = new String[]{getString(R.string.app_name), getString(R.string.hotchat), getString(R.string.circle), getString(R.string.me)};
-        TABLE_GAMES = new String[]{getString(R.string.LOL), getString(R.string.lus), getString(R.string.cf), getString(R.string.dnf)};
+//        RealmProvider.getInstance().init(this);
     }
 
     private IWXAPI wxApi;

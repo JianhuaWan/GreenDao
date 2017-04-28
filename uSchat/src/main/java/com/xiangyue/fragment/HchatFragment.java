@@ -4,8 +4,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.widget.SwipeRefreshLayout;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,10 +16,8 @@ import android.widget.Toast;
 import com.im.ui.SplashActivity;
 import com.squareup.otto.Subscribe;
 import com.xiangyue.act.FindRadarActivity;
-import com.xiangyue.act.GameNewsActivity;
 import com.xiangyue.act.GuessinhActivity;
 import com.xiangyue.act.R;
-import com.xiangyue.act.SystemMainActivity;
 import com.xiangyue.base.BaseApplication;
 import com.xiangyue.base.MicroRecruitSettings;
 import com.xiangyue.bean.coin;
@@ -31,6 +27,9 @@ import org.json.JSONObject;
 
 import java.util.List;
 
+import butterknife.Bind;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
 import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.BmobRealTimeData;
 import cn.bmob.v3.listener.FindListener;
@@ -42,13 +41,18 @@ import cn.bmob.v3.listener.ValueEventListener;
  * 2017年3月24日 13:23:58
  */
 public class HchatFragment extends Fragment implements OnClickListener {
+    @Bind(R.id.linear_lol)
+    LinearLayout linearLol;
+    @Bind(R.id.linear_king)
+    LinearLayout linearKing;
+    @Bind(R.id.Linear_video)
+    LinearLayout LinearVideo;
     private LinearLayout chatcount;
     private TextView tv_unreadAllmessage;
     private LinearLayout startcp, startcg;
     SwipeRefreshLayout sw_refresh;
     private MicroRecruitSettings settings;
     private TextView tv_g;
-    private LinearLayout linear_dnf, linear_lol, linear_lus, linear_cf;
 
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -61,6 +65,7 @@ public class HchatFragment extends Fragment implements OnClickListener {
         }
         //监听系统消息表
         getListBySys();
+        ButterKnife.bind(this, container);
         return container;
 
     }
@@ -167,14 +172,6 @@ public class HchatFragment extends Fragment implements OnClickListener {
         chatcount = (LinearLayout) conView.findViewById(R.id.chatcount);
         chatcount.setOnClickListener(this);
         tv_unreadAllmessage = (TextView) conView.findViewById(R.id.tv_unreadAllmessage);
-        linear_dnf = (LinearLayout) conView.findViewById(R.id.linear_dnf);
-        linear_lol = (LinearLayout) conView.findViewById(R.id.linear_lol);
-        linear_cf = (LinearLayout) conView.findViewById(R.id.linear_cf);
-        linear_lus = (LinearLayout) conView.findViewById(R.id.linear_lus);
-        linear_lus.setOnClickListener(this);
-        linear_cf.setOnClickListener(this);
-        linear_dnf.setOnClickListener(this);
-        linear_lol.setOnClickListener(this);
         if (BaseApplication.getInstance().getUnreadallmessage() > 0) {
             tv_unreadAllmessage.setVisibility(View.VISIBLE);
             tv_unreadAllmessage.setText(BaseApplication.getInstance().getUnreadallmessage() + "");
@@ -220,22 +217,6 @@ public class HchatFragment extends Fragment implements OnClickListener {
                 intent.setClass(getActivity(), GuessinhActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.linear_lol:
-                intent.setClass(getActivity(), GameNewsActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.linear_dnf:
-                intent.setClass(getActivity(), GameNewsActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.linear_cf:
-                intent.setClass(getActivity(), GameNewsActivity.class);
-                startActivity(intent);
-                break;
-            case R.id.linear_lus:
-                intent.setClass(getActivity(), GameNewsActivity.class);
-                startActivity(intent);
-                break;
             default:
                 break;
         }
@@ -248,6 +229,25 @@ public class HchatFragment extends Fragment implements OnClickListener {
             tv_unreadAllmessage.setText(BaseApplication.getInstance().getUnreadallmessage() + "");
         } else {
             tv_unreadAllmessage.setVisibility(View.GONE);
+        }
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        ButterKnife.unbind(this);
+    }
+
+    @OnClick({R.id.linear_lol, R.id.linear_king, R.id.Linear_video})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.linear_lol:
+                break;
+            case R.id.linear_king:
+                break;
+            case R.id.Linear_video:
+                //koken:176F1-9E2B9-89EB3-99191
+                break;
         }
     }
 }

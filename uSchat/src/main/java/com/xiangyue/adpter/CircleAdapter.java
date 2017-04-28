@@ -32,6 +32,7 @@ import com.xiangyue.bean.CircleBean;
 
 import java.io.BufferedInputStream;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -40,7 +41,7 @@ import java.util.List;
 public class CircleAdapter extends BaseAdapter {
     private Context context;
     private LayoutInflater inflater;
-    private List<CircleBean> jsonBeans;
+    private List<CircleBean> jsonBeans = new ArrayList<>();
     private MicroRecruitSettings settings;
 
     public CircleAdapter(Context context, List<CircleBean> jsonBeans) {

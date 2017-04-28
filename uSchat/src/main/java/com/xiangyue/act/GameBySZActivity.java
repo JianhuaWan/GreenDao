@@ -95,7 +95,6 @@ public class GameBySZActivity extends BaseActivity implements View.OnClickListen
     Animation animation;
 
     private void startAnimation() {
-
         animation = AnimationUtils.loadAnimation(this, R.anim.rotate);
         img_random1.startAnimation(animation);
         img_random2.startAnimation(animation);
