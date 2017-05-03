@@ -3,6 +3,7 @@ package com.wanjianhua.mockpanda;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Environment;
 import android.support.v4.content.ContextCompat;
@@ -61,7 +62,11 @@ public class MainActivity extends AppCompatActivity {
         edit_text = (EditText) findViewById(R.id.edit_text);
         send = (Button) findViewById(R.id.send);
         diveo_view = (VideoView) findViewById(R.id.diveo_view);
-        diveo_view.setVideoPath(Environment.getExternalStorageDirectory() + "/lol.mp4");
+//        diveo_view.setVideoPath(Environment.getExternalStorageDirectory() + "/lol.mp4");
+//        diveo_view.setVideoPath("rtsp://v2.cache2.c.youtube.com/CjgLENy73wIaLwm3JbT_%ED%AF%80%E" +
+//                "D%B0%819HqWohMYESARFEIJbXYtZ29vZ2xlSARSB3Jlc3VsdHNg_vSmsbeSyd5JDA==/0/0/0/video.3gp");
+        diveo_view.setVideoURI(Uri.parse("android.resource://" + getPackageName()
+                + "/" + R.raw.hdmi));
         diveo_view.start();
         danmakuView = (DanmakuView) findViewById(R.id.danmaku_view);
         danmakuView.enableDanmakuDrawingCache(true);
@@ -125,7 +130,6 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * 随即生成一些内容测试
-     *
      */
     private void generateSomeDanmaku() {
         new Thread(new Runnable() {
