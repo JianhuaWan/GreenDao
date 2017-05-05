@@ -1,7 +1,11 @@
-include ':stock', ':catrecoder', ':appbyflynn', ':rxjava+mvp+retrofit+dagger2'
+//include
+//':stock', ':catrecoder', ':appbyflynn', ':rxjava+mvp+retrofit+dagger2', ':testapp'
 //':TuSDK', ':sMSSDK', ':MPChartLib', ':uSchat',
 //':stock'
 //':mvp_rxjava_retrofit'
 //':testplugin', ':mockpanda',
 
-
+//include ':amulyakhareTextDrawable'
+//include ':calendar'
+include ':dzSTB(as)', 'plmpro', ':TuSDK', ':sMSSDK', ':uSchat', 'mockpanda', 'stock', ':appgit'
+//,':TuSDK', ':sMSSDK',  ':uSchat'
