@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView mRecyclerView;
     HeaderProductLayout mHeaderView;
     int imageY = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

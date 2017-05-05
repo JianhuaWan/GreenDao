@@ -6,15 +6,40 @@
     android:layout_height="match_parent"
     tools:context="wobiancao.stickydemo.app.MainActivity">
 
-   <FrameLayout
-       android:layout_width="match_parent"
-       android:layout_height="match_parent">
-       <android.support.v7.widget.RecyclerView
-           android:id="@+id/main_recycler"
-           android:layout_width="match_parent"
-           android:layout_height="match_parent"/>
-       
-    <include layout="@layout/include_header_product"/>
-   </FrameLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/main_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <include
+            layout="@layout/include_header_product"
+            />
+    </FrameLayout>
+
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+            <!--<android.support.v7.widget.RecyclerView-->
+                <!--android:id="@+id/main_recycler"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/in_clude"/>-->
+
+            <!--<include-->
+                <!--android:id="@+id/in_clude"-->
+                <!--layout="@layout/include_header_product"-->
+                <!--/>-->
+        <!--</RelativeLayout>-->
+    <!--</FrameLayout>-->
 </LinearLayout>
