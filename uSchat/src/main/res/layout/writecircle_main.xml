@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@color/common_bg"
-    android:orientation="vertical">
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/common_bg"
+              android:orientation="vertical">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="38dp"
         android:layout_gravity="center"
-        android:background="@color/white">
+        android:background="@color/appcolor">
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -18,12 +18,11 @@
             android:onClick="back">
 
             <ImageView
-                android:layout_width="10dp"
-                android:layout_height="17dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
-                android:layout_marginLeft="20dp"
                 android:layout_marginRight="10dp"
-                android:src="@drawable/pointtop" />
+                android:src="@drawable/btn_return"/>
         </LinearLayout>
 
         <TextView
@@ -31,9 +30,9 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="编辑"
-            android:textColor="@color/appcolor"
+            android:textColor="@color/white"
             android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"/>
 
         <TextView
             android:id="@+id/img_situp"
@@ -44,13 +43,13 @@
             android:layout_marginRight="10dp"
             android:padding="10dp"
             android:text="保存"
-            android:textColor="@color/appcolor" />
+            android:textColor="@color/white"/>
     </RelativeLayout>
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="0.5dp"
-        android:background="@color/grey" />
+        android:background="@color/grey"/>
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -65,7 +64,7 @@
             android:hint="这一刻的想法..."
             android:minHeight="120dp"
             android:padding="10dp"
-            android:textColorHint="@color/grey" />
+            android:textColorHint="@color/grey"/>
 
 
         <LinearLayout
@@ -79,7 +78,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="10dp"
-                android:src="@drawable/moment_add_picture_pressed" />
+                android:src="@drawable/moment_add_picture_pressed"/>
 
             <GridView
                 android:id="@+id/gridView"
@@ -91,7 +90,7 @@
                 android:padding="5dp"
                 android:stretchMode="columnWidth"
                 android:verticalSpacing="1dp"
-                android:visibility="gone" />
+                android:visibility="gone"/>
 
         </LinearLayout>
 
@@ -109,7 +108,7 @@
                 android:drawableLeft="@drawable/gps_popularity"
                 android:drawablePadding="3dp"
                 android:padding="10dp"
-                android:text="位置" />
+                android:text="位置"/>
         </LinearLayout>
     </RelativeLayout>
 </LinearLayout>

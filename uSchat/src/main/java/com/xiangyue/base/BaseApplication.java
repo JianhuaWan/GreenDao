@@ -2,6 +2,7 @@ package com.xiangyue.base;
 
 import android.app.Service;
 import android.content.Context;
+import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Environment;
@@ -16,6 +17,9 @@ import com.xiangyue.act.R;
 import com.xiangyue.core.BitmapLoader;
 import com.xiangyue.provider.BusProvider;
 import com.xiangyue.service.LocationService;
+import com.yixia.camera.demo.service.AssertService;
+import com.yixia.weibo.sdk.VCamera;
+import com.yixia.weibo.sdk.util.DeviceUtils;
 
 import org.lasque.tusdk.core.TuSdkApplication;
 
@@ -112,6 +116,7 @@ public class BaseApplication extends TuSdkApplication {
         instance = this;
         isDownload = false;
         this.mainHandler = new Handler();
+
         // 初始化事件分发器
         // EventDispatcher.init(getBaseContext(), this);
         mBitmapLoader = BitmapLoader.create(this);
@@ -148,6 +153,27 @@ public class BaseApplication extends TuSdkApplication {
         //TABLE_NAMES
         TABLE_NAMES = new String[]{getString(R.string.app_name), getString(R.string.hotchat), getString(R.string.circle), getString(R.string.me)};
 //        RealmProvider.getInstance().init(this);
+//        initCanvers();
+    }
+
+    private void initCanvers() {
+        // 设置拍摄视频缓存路径
+        File dcim = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DCIM);
+        if (DeviceUtils.isZte()) {
+            if (dcim.exists()) {
+                VCamera.setVideoCachePath(dcim + "/Camera/VCameraDemo/");
+            } else {
+                VCamera.setVideoCachePath(dcim.getPath().replace("/sdcard/", "/sdcard-ext/") + "/Camera/VCameraDemo/");
+            }
+        } else {
+            VCamera.setVideoCachePath(dcim + "/Camera/VCameraDemo/");
+        }
+        // 开启log输出,ffmpeg输出到logcat
+        VCamera.setDebugMode(true);
+        // 初始化拍摄SDK，必须
+        VCamera.initialize(this);
+        //解压assert里面的文件
+        startService(new Intent(this, AssertService.class));
     }
 
     private IWXAPI wxApi;

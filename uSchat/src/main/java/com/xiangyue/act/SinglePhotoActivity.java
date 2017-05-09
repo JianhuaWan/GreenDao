@@ -4,11 +4,13 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+import com.im.util.ViewUtil;
 import com.xiangyue.base.BaseActivity;
 import com.xiangyue.image.ImageDisplayer;
 import com.xiangyue.image.ImageItem;
@@ -89,6 +91,7 @@ public class SinglePhotoActivity extends BaseActivity {
             // assert imageLayout != null;
             imageView = (ImageView) imageLayout.findViewById(R.id.image);
 //            final ProgressBar spinner = (ProgressBar) imageLayout.findViewById(R.id.loading);
+            //发送的不是远程图片地址，则取本地地址
             ImageDisplayer.getInstance(SinglePhotoActivity.this).displayBmp(imageView, images.thumbnailPath, images.sourcePath);
             view.addView(imageLayout, 0);
             return imageLayout;

@@ -53,24 +53,11 @@ public class StartActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         SysApplication.getInstance().addActivity(this);
         mContext = this;
-        View view = View.inflate(StartActivity.this, R.layout.activity_splash_layout, null);
+//        View view = View.inflate(StartActivity.this, R.layout.activity_splash_layout, null);
         settings = new MicroRecruitSettings(mContext);
-        setContentView(view);
-        Animation animation = new AnimationUtils().loadAnimation(StartActivity.this, R.anim.alpha);
-        view.setAnimation(animation);
-        animation.setAnimationListener(new AnimationListener() {
-
+        new Handler().postDelayed(new Runnable() {
             @Override
-            public void onAnimationStart(Animation animation) {
-
-            }
-
-            @Override
-            public void onAnimationRepeat(Animation animation) {
-            }
-
-            @Override
-            public void onAnimationEnd(Animation animation) {
+            public void run() {
                 if (settings.isFirstLogin.getValue()) {
                     // 第一次登录
                     mHandler.sendEmptyMessage(TOLOGIN);
@@ -93,6 +80,45 @@ public class StartActivity extends BaseActivity {
                     });
                 }
             }
-        });
+        }, 2000);
+//        setContentView(view);
+//        Animation animation = new AnimationUtils().loadAnimation(StartActivity.this, R.anim.alpha);
+//        view.setAnimation(animation);
+//        animation.setAnimationListener(new AnimationListener() {
+//
+//            @Override
+//            public void onAnimationStart(Animation animation) {
+//
+//            }
+//
+//            @Override
+//            public void onAnimationRepeat(Animation animation) {
+//            }
+//
+//            @Override
+//            public void onAnimationEnd(Animation animation) {
+//                if (settings.isFirstLogin.getValue()) {
+//                    // 第一次登录
+//                    mHandler.sendEmptyMessage(TOLOGIN);
+//                } else {
+//                    // 不是第一次登录
+//                    //这里必须要进行登录才行
+//                    User user = new User();
+//                    user.setUsername(settings.phone.getValue());
+//                    user.setPassword(settings.PWD.getValue());
+//                    user.login(StartActivity.this, new SaveListener() {
+//                        @Override
+//                        public void onSuccess() {
+//                            mHandler.sendEmptyMessage(TOMAIN);
+//                        }
+//
+//                        @Override
+//                        public void onFailure(int i, String s) {
+//                            Toast.makeText(StartActivity.this, s, Toast.LENGTH_LONG).show();
+//                        }
+//                    });
+//                }
+//            }
+//        });
     }
 }
