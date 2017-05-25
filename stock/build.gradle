@@ -1,6 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
+
+    signingConfigs {
+        release {
+            storeFile file('src/MyApp.keystore')
+            keyAlias 'jianhua@keji.com'
+            keyPassword '2782337'
+            storePassword '2782337'
+        }
+    }
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
@@ -8,17 +17,31 @@ android {
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 7
-        versionName "V2.2.8"
+        versionName "V3.10.86"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
     buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            release {
+                signingConfig signingConfigs.release
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+                //自动删除 unaligned .apks
+                applicationVariants.all { variant ->
+                    variant.assemble.doLast {
+                        variant.outputs.each { output ->
+                            File unaligned = output.packageApplication.outputFile;
+                            File aligned = output.outputFile
+                            if (!unaligned.getName().equalsIgnoreCase(aligned.getName())) {
+                                println "deleting " + unaligned.getName()
+                                unaligned.delete()
+                            }
+                        }
+                    }
+                }
+            }
         }
-    }
     sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
@@ -38,4 +61,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:design:25.0.0'
     compile 'com.github.ctiao:DanmakuFlameMaster:0.7.3'
+    compile 'com.jakewharton:butterknife:7.0.0'
 }

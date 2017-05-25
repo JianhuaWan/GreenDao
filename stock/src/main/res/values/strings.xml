@@ -42,4 +42,7 @@
     <string name="no100"> (不足100股,请核对)</string>
     <string name="bfb"> -30%</string>
     <string name="infonotwrite"> 信息输入不完整</string>
+    <string name="balance_1"> 比例1</string>
+    <string name="balance_2"> 比例2</string>
+    <string name="balance_3"> 比例3</string>
 </resources>

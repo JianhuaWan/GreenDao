@@ -139,7 +139,7 @@
                     android:layout_height="match_parent"
                     android:layout_marginRight="10dp"
                     android:gravity="center|right"
-                    android:inputType="number"
+                    android:inputType="number|numberDecimal"
                     android:textColor="@color/black"
                     android:textSize="14dp"/>
             </LinearLayout>
@@ -214,6 +214,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/linear_balance"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:background="@color/base_color_text_white"

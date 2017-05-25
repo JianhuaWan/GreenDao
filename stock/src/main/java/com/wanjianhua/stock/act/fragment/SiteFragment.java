@@ -187,6 +187,7 @@ public class SiteFragment extends Fragment {
                         info.setSingleprice(list.get(i).getSingleprice());
                         info.setTotalprice(list.get(i).getTotalprice());
                         info.setObjid(list.get(i).getObjectId());
+                        info.setBalance(list.get(i).getBalance());
                         infoList.add(info);
                     }
                     adapter.setData(infoList);
