@@ -23,25 +23,25 @@ android {
 
     }
     buildTypes {
-            release {
-                signingConfig signingConfigs.release
-                minifyEnabled false
-                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-                //自动删除 unaligned .apks
-                applicationVariants.all { variant ->
-                    variant.assemble.doLast {
-                        variant.outputs.each { output ->
-                            File unaligned = output.packageApplication.outputFile;
-                            File aligned = output.outputFile
-                            if (!unaligned.getName().equalsIgnoreCase(aligned.getName())) {
-                                println "deleting " + unaligned.getName()
-                                unaligned.delete()
-                            }
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //自动删除 unaligned .apks
+            applicationVariants.all { variant ->
+                variant.assemble.doLast {
+                    variant.outputs.each { output ->
+                        File unaligned = output.packageApplication.outputFile;
+                        File aligned = output.outputFile
+                        if (!unaligned.getName().equalsIgnoreCase(aligned.getName())) {
+                            println "deleting " + unaligned.getName()
+                            unaligned.delete()
                         }
                     }
                 }
             }
         }
+    }
     sourceSets {
         main {
             jniLibs.srcDirs = ['libs']

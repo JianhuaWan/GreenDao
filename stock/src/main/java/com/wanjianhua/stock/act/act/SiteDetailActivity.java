@@ -234,7 +234,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
 //                        tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowprice.setText(nowprice + "");
-                        tv_nowappreciate.setText("-19.8%");
+                        tv_nowappreciate.setText("-16.5%");
                         int count = (int) (totalprice / toatlbalance / toatlbalance * balancearray[1] * balancearray[1] / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
@@ -259,7 +259,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
 //                        tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowprice.setText(nowprice + "");
-                        tv_nowappreciate.setText("-29.7%");
+                        tv_nowappreciate.setText("-19.8%");
                         int count = (int) (totalprice / toatlbalance / toatlbalance * balancearray[1] * balancearray[2] / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
@@ -288,7 +288,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
 //                        tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowprice.setText(nowprice + "");
-                        tv_nowappreciate.setText("-33%");
+                        tv_nowappreciate.setText("-23.1%");
                         int count = (int) (totalprice / toatlbalance / toatlbalance * balancearray[2] * balancearray[0] / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
@@ -313,7 +313,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
 //                        tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowprice.setText(nowprice + "");
-                        tv_nowappreciate.setText("-39.6%");
+                        tv_nowappreciate.setText("-26.4%");
                         int count = (int) (totalprice / toatlbalance / toatlbalance * balancearray[2] * balancearray[1] / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
@@ -338,7 +338,7 @@ public class SiteDetailActivity extends BaseActivity implements View.OnClickList
                         //构造方法的字符格式这里如果小数不足2位,会以0补足.
 //                        tv_nowprice.setText(decimalFormat.format(nowprice));
                         tv_nowprice.setText(nowprice + "");
-                        tv_nowappreciate.setText("-49.5%");
+                        tv_nowappreciate.setText("-29.7%");
                         int count = (int) (totalprice / toatlbalance / toatlbalance * balancearray[2] * balancearray[2] / nowprice);
                         String temp = count + "";
                         String overcount = temp.substring(0, temp.length() - 2);
