@@ -16,7 +16,7 @@ android {
         applicationId "com.wanjianhua.stock"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 7
+        versionCode 12
         versionName "V3.10.86"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"

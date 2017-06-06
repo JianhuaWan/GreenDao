@@ -30,6 +30,7 @@
     <string name="wareband1">波段[1]</string>
     <string name="wareband2">波段[2]</string>
     <string name="wareband3">波段[3]</string>
+    <string name="update">修改</string>
     <string name="bl">1:1:3</string>
     <string name="login">登录</string>
     <string name="netfial">网络不可用</string>
@@ -40,9 +41,12 @@
     <string name="totalcount">总股数</string>
     <string name="nologin">尚未登录</string>
     <string name="no100"> (不足100股,请核对)</string>
-    <string name="bfb"> -30%</string>
+    <string name="bfb"> -26.5%</string>
     <string name="infonotwrite"> 信息输入不完整</string>
     <string name="balance_1"> 比例1</string>
     <string name="balance_2"> 比例2</string>
     <string name="balance_3"> 比例3</string>
+    <string name="updateprice">修改买入价格</string>
+    <string name="cancle">取消</string>
+    <string name="sure">确认</string>
 </resources>
