@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">百思不得姐</string>
+
+    <string name="main_essence_text">精华</string>
+    <string name="main_mine_text">我的</string>
+    <string name="main_newpost_text">新帖</string>
+    <string name="main_attention_text">关注</string>
+
+
+    <!--<array name="essence_video_tab">-->
+    <!--<item>全部@y@1</item>-->
+    <!--<item>视频@y@1</item>-->
+    <!--&lt;!&ndash;<item>图片@y@2</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>段子@y@3</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>网红@y@4</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>排行@y@5</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>社会@y@6</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>美女@y@7</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>冷知识@y@8</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;<item>游戏@y@9</item>&ndash;&gt;-->
+
+
+    <!--</array>-->
+    <array name="essence_video_tab">
+        <item>全部@y@1</item>
+        <item>视频@y@1</item>
+        <item>声音@y@2</item>
+        <item>图片@y@3</item>
+        <item>段子@y@4</item>
+        <item>广告@y@5</item>
+        <item>剧情@y@6</item>
+    </array>
+
+</resources>

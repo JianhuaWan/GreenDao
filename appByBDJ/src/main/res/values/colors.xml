@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D33A32</color>
+    <color name="colorPrimaryDark">#D33A32</color>
+    <color name="colorAccent">#D33A32</color>
+
+    <color name="main_content_bg">#10000000</color>
+
+    <color name="main_bottom_text_normal">#ff847d7b</color>
+    <color name="main_bottom_text_press">#ff333333</color>
+    <color name="main_bottom_bg">#11000000</color>
+    <color name="essence_tab_bg">#12000000</color>
+    <color name="essence_tab_text_color_press">#ff847d7b</color>
+    <color name="essence_tab_text_color_normal">#12000000</color>
+    <color name="main_bottom_text_select">#ff333333</color>
+</resources>
