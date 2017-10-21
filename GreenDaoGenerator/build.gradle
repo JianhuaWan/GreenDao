@@ -1,0 +1,12 @@
+apply plugin: 'java'
+sourceSets {
+    main.java.srcDirs = ['src']
+    main.resources.srcDirs = ['src']
+    test.java.srcDirs = ['tests/java']
+    test.resources.srcDirs = ['tests/resources']
+}
+
+dependencies {
+    compile files('libs/freemarker-2.3.23.jar')
+    compile files('libs/greendao-generator-2.1.0.jar')
+}
