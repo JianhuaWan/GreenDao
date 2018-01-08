@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        release {
+            storeFile file('src/MyApp.keystore')
+            keyAlias 'jianhua@keji.com'
+            keyPassword '2782337'
+            storePassword '2782337'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.wanjianhua.aooshop"
+        minSdkVersion 21
+        targetSdkVersion 23
+        versionCode 12
+        versionName "V3.10.86"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            //自动删除 unaligned .apks
+            applicationVariants.all { variant ->
+                variant.assemble.doLast {
+                    variant.outputs.each { output ->
+                        File unaligned = output.packageApplication.outputFile;
+                        File aligned = output.outputFile
+                        if (!unaligned.getName().equalsIgnoreCase(aligned.getName())) {
+                            println "deleting " + unaligned.getName()
+                            unaligned.delete()
+                        }
+                    }
+                }
+            }
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:design:23.0.0'
+    compile 'com.github.ctiao:DanmakuFlameMaster:0.7.3'
+    compile 'com.jakewharton:butterknife:7.0.0'
+    compile 'com.github.orangegangsters:swipy:1.2.3@aar'
+    compile 'com.youth.banner:banner:1.4.10'  //最新版本
+    compile 'com.squareup.picasso:picasso:2.5.2'
+
+}
