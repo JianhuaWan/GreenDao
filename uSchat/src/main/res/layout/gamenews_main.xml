@@ -42,7 +42,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="@string/lus"
+                android:text="@string/LOL"
                 android:textColor="@color/vpi_dark_them" />
         </LinearLayout>
 
@@ -60,7 +60,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="@string/cf"
+                android:text="@string/LOL"
                 android:textColor="@color/vpi_dark_them" />
         </LinearLayout>
 
@@ -78,7 +78,7 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:gravity="center"
-                android:text="@string/dnf"
+                android:text="@string/LOL"
                 android:textColor="@color/vpi_dark_them" />
         </LinearLayout>
 

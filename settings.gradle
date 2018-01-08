@@ -7,5 +7,5 @@
 
 //include ':amulyakhareTextDrawable'
 //include ':calendar'
-include ':dzSTB(as)', 'plmpro', ':TuSDK', ':sMSSDK', ':uSchat', 'mockpanda', 'stock', ':appgit'
+include ':dzSTB(as)', 'plmpro', ':TuSDK', ':sMSSDK', ':uSchat', 'mockpanda', 'stock', ':testjsoup', ':aooshop'
 //,':TuSDK', ':sMSSDK',  ':uSchat'

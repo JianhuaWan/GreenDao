@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GreenDao.iml" filepath="$PROJECT_DIR$/GreenDao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appbyflynn/appbyflynn.iml" filepath="$PROJECT_DIR$/appbyflynn/appbyflynn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appbyflynn/appbyflynn.iml" filepath="$PROJECT_DIR$/appbyflynn/appbyflynn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/catrecoder/catrecoder.iml" filepath="$PROJECT_DIR$/catrecoder/catrecoder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/catrecoder/catrecoder.iml" filepath="$PROJECT_DIR$/catrecoder/catrecoder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" filepath="$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" filepath="$PROJECT_DIR$/rxjava+mvp+retrofit+dagger2/rxjava+mvp+retrofit+dagger2.iml" />
+      <module fileurl="file://D:\aspro\GreenDao2018\GreenDao.iml" filepath="D:\aspro\GreenDao2018\GreenDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GreenDao2018.iml" filepath="$PROJECT_DIR$/.idea/GreenDao2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TuSDK/TuSDK.iml" filepath="$PROJECT_DIR$/TuSDK/TuSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aooshop/aooshop.iml" filepath="$PROJECT_DIR$/aooshop/aooshop.iml" />
+      <module fileurl="file://D:\aspro\GreenDao2018\appbyflynn\appbyflynn.iml" filepath="D:\aspro\GreenDao2018\appbyflynn\appbyflynn.iml" />
+      <module fileurl="file://D:\aspro\GreenDao2018\catrecoder\catrecoder.iml" filepath="D:\aspro\GreenDao2018\catrecoder\catrecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dzSTB(as)/dzSTB(as).iml" filepath="$PROJECT_DIR$/dzSTB(as)/dzSTB(as).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockpanda/mockpanda.iml" filepath="$PROJECT_DIR$/mockpanda/mockpanda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plmpro/plmpro.iml" filepath="$PROJECT_DIR$/plmpro/plmpro.iml" />
+      <module fileurl="file://D:\aspro\GreenDao2018\rxjava+mvp+retrofit+dagger2\rxjava+mvp+retrofit+dagger2.iml" filepath="D:\aspro\GreenDao2018\rxjava+mvp+retrofit+dagger2\rxjava+mvp+retrofit+dagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sMSSDK/sMSSDK.iml" filepath="$PROJECT_DIR$/sMSSDK/sMSSDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/stock/stock.iml" filepath="$PROJECT_DIR$/stock/stock.iml" />
+      <module fileurl="file://D:\aspro\GreenDao2018\stock\stock.iml" filepath="D:\aspro\GreenDao2018\stock\stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjsoup/testjsoup.iml" filepath="$PROJECT_DIR$/testjsoup/testjsoup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uSchat/uSchat.iml" filepath="$PROJECT_DIR$/uSchat/uSchat.iml" />
     </modules>
   </component>
 </project>
